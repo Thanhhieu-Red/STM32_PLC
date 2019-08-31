@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=R2 Old Footprint=14-1210 New Footprint=12Z-2010
+Change Component Footprint: Designator=C4 Old Footprint=C1210 New Footprint=1812
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=12Z-2010
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component C1 Cap Semi
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component C2 Cap Semi
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component C3 Cap Semi
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component C4 Cap Semi
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component C5 Cap Semi
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component C6 Cap Semi
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R1 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R2 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R3 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R5 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R7 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R8 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R10 Res3
+Added Room: Name=BV100011_ControlPower
