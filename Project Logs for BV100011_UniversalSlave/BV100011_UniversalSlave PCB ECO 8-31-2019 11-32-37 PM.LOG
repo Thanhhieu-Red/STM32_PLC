@@ -1,0 +1,11 @@
+Added Component: Designator=T1(750317248)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC8_2 Pin=T1-1
+Added Pin To Net: NetName=NetC8_2 Pin=T1-2
+Added Pin To Net: NetName=NetQ2_5 Pin=T1-3
+Added Pin To Net: NetName=NetQ2_5 Pin=T1-4
+Added Pin To Net: NetName=VIN Pin=T1-5
+Added Pin To Net: NetName=VIN Pin=T1-6
+Added Pin To Net: NetName=NetC1_2 Pin=T1-7
+Added Pin To Net: NetName=NetC1_2 Pin=T1-8
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component T1 750317248

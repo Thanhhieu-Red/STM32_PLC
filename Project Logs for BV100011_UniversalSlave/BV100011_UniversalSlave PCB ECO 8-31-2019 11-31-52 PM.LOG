@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC8_2 Pin=T1-1
+Removed Pin From Net: NetName=NetC8_2 Pin=T1-2
+Removed Pin From Net: NetName=NetQ2_5 Pin=T1-3
+Removed Pin From Net: NetName=NetQ2_5 Pin=T1-4
+Removed Pin From Net: NetName=VIN Pin=T1-5
+Removed Pin From Net: NetName=VIN Pin=T1-6
+Removed Pin From Net: NetName=NetC1_2 Pin=T1-7
+Removed Pin From Net: NetName=NetC1_2 Pin=T1-8
+Removed Member From Class: ClassName=BV100011_ControlPower Member=T1
+Added Room: Name=BV100011_ControlPower

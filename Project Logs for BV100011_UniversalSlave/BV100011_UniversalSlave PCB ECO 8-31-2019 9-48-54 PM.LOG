@@ -1,0 +1,14 @@
+Added Component: Designator=Q?(*TRANS_FDMS0300S)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component C10 Cap Semi
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component C15 Cap Semi
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component Q? FDMS86252
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R4 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R5 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R7 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R10 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R11 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R13 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R14 Res3
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component R16 Res3
+Added Room: Name=BV100011_ControlPower
