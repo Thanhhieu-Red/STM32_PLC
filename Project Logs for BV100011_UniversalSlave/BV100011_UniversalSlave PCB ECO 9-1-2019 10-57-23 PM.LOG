@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=D1-A
+Removed Pin From Net: NetName=NetC2_2 Pin=D1-C
+Removed Pin From Net: NetName=NetD3_A Pin=D3-A
+Change Component Footprint: Designator=D1 Old Footprint=*POWERDI123 New Footprint=POWERDI123_1
+Change Component Footprint: Designator=D3 Old Footprint=*POWERDI123 New Footprint=POWERDI123_1
+Change Component Comment : Designator=D3 Old Comment=DFLR1200(OPEN) New Comment=DFLR1200-7
+Change Component Comment : Designator=D1 Old Comment=DFLR1200 New Comment=DFLR1200-7
+Change component parameters: Designator = "D1"; Footprint = "POWERDI123_1"; UniqueID = "\UPTGPVGV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/ds30602.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFLR1200-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-DFLR1200-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=621-DFLR1200-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "7082214P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7082214P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "POWERDI123_1"; UniqueID = "\CISZCOCK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/ds30602.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFLR1200-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-DFLR1200-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=621-DFLR1200-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "7082214P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7082214P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD3_A Pin=D3-2
+Change Net Name : Old Net Name=NetD3_A New Net Name=NetD3_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R5-1
+Added Net: Name=NetD3_1
+Added Room: Name=BV100011_ControlPower
