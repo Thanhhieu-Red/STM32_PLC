@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=BV100011_ControlPower Member=LED?
+Added Member To Class: ClassName=BV100011_ControlPower Member=Component C17 Cap Semi
+Added Room: Name=BV100011_ControlPower
