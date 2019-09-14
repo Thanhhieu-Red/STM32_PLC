@@ -1,0 +1,42 @@
+Added Component: Designator=IC5(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70046155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/microchip-technology-inc-mcp4921-e-sn/70046155/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/22248a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP4921-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP4921-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=579-MCP4921-E%2FSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "0402803P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/0402803P"; VariantName = "[No Variations]"
+Added Component: Designator=IC6(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70046155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/microchip-technology-inc-mcp4921-e-sn/70046155/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/22248a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP4921-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP4921-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=579-MCP4921-E%2FSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "0402803P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/0402803P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_iso_A0 Pin=IC5-1
+Added Pin To Net: NetName=NetIC5_2 Pin=IC5-2
+Added Pin To Net: NetName=NetIC5_3 Pin=IC5-3
+Added Pin To Net: NetName=NetIC5_4 Pin=IC5-4
+Added Pin To Net: NetName=GND_ISO_A0 Pin=IC5-5
+Added Pin To Net: NetName=Vref_A0 Pin=IC5-6
+Added Pin To Net: NetName=GND_ISO_A0 Pin=IC5-7
+Added Pin To Net: NetName=NetIC5_8 Pin=IC5-8
+Added Pin To Net: NetName=VCC_iso_A0 Pin=IC6-1
+Added Pin To Net: NetName=NetIC6_2 Pin=IC6-2
+Added Pin To Net: NetName=NetIC5_3 Pin=IC6-3
+Added Pin To Net: NetName=NetIC5_4 Pin=IC6-4
+Added Pin To Net: NetName=GND_ISO_A0 Pin=IC6-5
+Added Pin To Net: NetName=Vref_A0 Pin=IC6-6
+Added Pin To Net: NetName=GND_ISO_A0 Pin=IC6-7
+Added Pin To Net: NetName=NetIC6_8 Pin=IC6-8
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC5 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC6 MCP4921-E_SN
