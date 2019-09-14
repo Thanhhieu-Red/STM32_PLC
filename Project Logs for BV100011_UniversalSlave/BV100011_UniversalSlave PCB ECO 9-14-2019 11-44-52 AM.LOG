@@ -1,0 +1,34 @@
+Change Net Name : Old Net Name=GND_ISO_A0 New Net Name=GND_ISO_AO
+Change Net Name : Old Net Name=VCC_iso_A0 New Net Name=VCC_iso_AO
+Change Net Name : Old Net Name=Vref_A0 New Net Name=Vref_AO
+Added Net: Name=NetJ1_1
+Added Net: Name=NetJ1_2
+Added Net: Name=NetJ1_3
+Added Net: Name=NetJ1_4
+Added Net: Name=NetJ1_5
+Added Net: Name=NetJ1_6
+Added Net: Name=NetJ1_7
+Added Net: Name=NetJ1_8
+Added Net: Name=NetJ2_1
+Added Net: Name=NetJ2_2
+Added Net: Name=NetJ2_3
+Added Net: Name=NetJ2_4
+Added Net: Name=NetJ2_5
+Added Net: Name=NetJ2_6
+Added Net: Name=NetJ2_7
+Added Net: Name=NetJ2_8
+Added Net: Name=NetJ3_1
+Added Net: Name=NetJ3_2
+Added Net: Name=NetJ3_3
+Added Net: Name=NetJ3_4
+Added Net: Name=NetJ3_5
+Added Net: Name=NetJ3_6
+Added Net: Name=NetJ3_7
+Added Net: Name=NetJ3_8
+Added Net: Name=NetJ4_1
+Added Net: Name=NetJ4_2
+Added Net: Name=NetJ4_3
+Added Net: Name=NetJ4_4
+Added Net: Name=NetJ4_5
+Added Class: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlConnector
