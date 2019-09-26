@@ -293,23 +293,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HSWKCIGG
 
 [Document16]
-DocumentPath=BV100011_ControlConnector.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TIYWNTBM
-
-[Document17]
 DocumentPath=BV100011_ControlIsolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,8 +309,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KGGHFDYO
 
+[Document17]
+DocumentPath=BV100011_ControlConnector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TIYWNTBM
+
 [Document18]
-DocumentPath=BV100011_ControlIsolator.Harness
+DocumentPath=BV100011_ControlConnector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -344,7 +344,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=BV100011_ControlConnector.Harness
+DocumentPath=BV100011_ControlIsolator.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
