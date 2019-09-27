@@ -327,7 +327,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TIYWNTBM
 
 [Document18]
-DocumentPath=BV100011_ControlConnector.Harness
+DocumentPath=BV100011_ControlIsolator.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -344,7 +344,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=BV100011_ControlIsolator.Harness
+DocumentPath=BV100011_ControlConnector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
