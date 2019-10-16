@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetC52_2 Pin=J4-1
+Removed Pin From Net: NetName=NetC51_2 Pin=J4-2
+Removed Pin From Net: NetName=NetC48_2 Pin=J4-3
+Removed Pin From Net: NetName=NetIC4_29 Pin=J4-4
+Removed Pin From Net: NetName=NetC59_1 Pin=J4-5
+Removed Pin From Net: NetName=NetC57_1 Pin=J4-6
+Removed Pin From Net: NetName=NetC55_1 Pin=J4-7
+Removed Pin From Net: NetName=NetC53_1 Pin=J4-8
+Added Pin To Net: NetName=NetC53_1 Pin=J4-1
+Added Pin To Net: NetName=NetC55_1 Pin=J4-2
+Added Pin To Net: NetName=NetC57_1 Pin=J4-3
+Added Pin To Net: NetName=NetC59_1 Pin=J4-4
+Added Pin To Net: NetName=NetIC4_29 Pin=J4-5
+Added Pin To Net: NetName=NetC48_2 Pin=J4-6
+Added Pin To Net: NetName=NetC51_2 Pin=J4-7
+Added Pin To Net: NetName=NetC52_2 Pin=J4-8
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J2 2.5mm pitch
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
+Added Room: Name=U_BV100011_ControlPower

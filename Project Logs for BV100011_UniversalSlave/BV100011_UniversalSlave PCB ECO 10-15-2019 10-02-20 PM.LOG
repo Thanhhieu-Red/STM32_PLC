@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=C45 Old Footprint=C1210 New Footprint=0402
+Change Component Footprint: Designator=R59 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R60 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R61 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R62 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R63 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R64 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R65 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R66 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R67 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R68 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R69 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R70 Old Footprint=J1-0603 New Footprint=0402
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
+Added Room: Name=U_BV100011_ControlPower
