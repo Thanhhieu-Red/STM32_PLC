@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetIC4_29 Pin=C48-2
+Change Net Name : Old Net Name=NetC48_2 New Net Name=NetC50_2
+Change Net Name : Old Net Name=NetIC4_29 New Net Name=NetC48_2
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
+Added Room: Name=U_BV100011_ControlPower
