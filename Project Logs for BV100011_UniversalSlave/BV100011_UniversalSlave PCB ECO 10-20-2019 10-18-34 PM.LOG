@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R23 Old Footprint=14-1210 New Footprint=J1-0603
+Change Component Footprint: Designator=R24 Old Footprint=14-1210 New Footprint=J1-0603
+Change Component Footprint: Designator=R26 Old Footprint=14-1210 New Footprint=J1-0603
+Change Component Footprint: Designator=C24 Old Footprint=C1206 New Footprint=14-1210
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
+Added Room: Name=U_BV100011_ControlPower

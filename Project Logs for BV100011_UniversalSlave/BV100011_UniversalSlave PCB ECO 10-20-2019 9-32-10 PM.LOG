@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R3 Old Footprint=J1-0603 New Footprint=C1206
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
+Added Room: Name=U_BV100011_ControlPower
