@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=AI7 Pin=D17-1
+Removed Pin From Net: NetName=GND Pin=D17-2
+Removed Pin From Net: NetName=AI6 Pin=D18-1
+Removed Pin From Net: NetName=GND Pin=D18-2
+Removed Pin From Net: NetName=AI5 Pin=D19-1
+Removed Pin From Net: NetName=GND Pin=D19-2
+Removed Pin From Net: NetName=AI4 Pin=D20-1
+Removed Pin From Net: NetName=GND Pin=D20-2
+Removed Pin From Net: NetName=AI3 Pin=D21-1
+Removed Pin From Net: NetName=GND Pin=D21-2
+Removed Pin From Net: NetName=AI2 Pin=D22-1
+Removed Pin From Net: NetName=GND Pin=D22-2
+Removed Pin From Net: NetName=AI1 Pin=D23-1
+Removed Pin From Net: NetName=GND Pin=D23-2
+Removed Pin From Net: NetName=AI0 Pin=D24-1
+Removed Pin From Net: NetName=GND Pin=D24-2
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D17
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D18
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D19
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D20
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D21
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D22
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D23
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D24
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
+Added Room: Name=U_BV100011_ControlPower

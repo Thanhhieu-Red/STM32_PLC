@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=J1 Old Footprint=SHDR56W51P485X254_2X28_7785X928X1397P New Footprint=2199230-8
+Change Component Comment : Designator=J1 Old Comment=5530843-6 New Comment=2199230-8
+Change component parameters: Designator = "J1"; Footprint = "2199230-8"; UniqueID = "\DNZMHKYS\MYGSTJJS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1795031.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2199230-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-2199230-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=571-2199230-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_57 Pin=J1-57
+Added Pin To Net: NetName=NetJ1_57 Pin=U24-1
+Added Pin To Net: NetName=NetJ1_57 Pin=U24-2
+Added Net: Name=NetJ1_57
+Added Pin To Net: NetName=NetJ1_59 Pin=J1-59
+Added Pin To Net: NetName=NetJ1_59 Pin=U24-6
+Added Pin To Net: NetName=NetJ1_59 Pin=U24-7
+Added Net: Name=NetJ1_59
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
+Added Room: Name=U_BV100011_ControlPower
