@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=NetJ1_46 Pin=R87-1
+Removed Pin From Net: NetName=NetJ1_48 Pin=R88-1
+Removed Pin From Net: NetName=NetJ1_50 Pin=U25-2
+Removed Pin From Net: NetName=NetJ1_52 Pin=U25-3
+Removed Pin From Net: NetName=NetJ1_48 Pin=U25-6
+Removed Pin From Net: NetName=NetJ1_46 Pin=U25-7
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Added Component: Designator=P2(HDR1X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_46 Pin=P2-3
+Added Pin To Net: NetName=NetJ1_48 Pin=P2-4
+Added Pin To Net: NetName=NetJ1_50 Pin=P2-5
+Added Pin To Net: NetName=NetJ1_52 Pin=P2-6
+Added Pin To Net: NetName=GND0 Pin=P2-7
+Added Pin To Net: NetName=GND0 Pin=P3-7
+Added Pin To Net: NetName=GND0 Pin=P3-8
+Added Pin To Net: NetName=NetJ1_42 Pin=J1-42
+Added Pin To Net: NetName=NetJ1_42 Pin=P2-1
+Added Net: Name=NetJ1_42
+Added Pin To Net: NetName=NetJ1_44 Pin=J1-44
+Added Pin To Net: NetName=NetJ1_44 Pin=P2-2
+Added Net: Name=NetJ1_44
+Added Pin To Net: NetName=NetJ1_54 Pin=J1-54
+Added Pin To Net: NetName=NetJ1_54 Pin=P2-8
+Added Net: Name=NetJ1_54
+Added Pin To Net: NetName=NetJ1_56 Pin=J1-56
+Added Pin To Net: NetName=NetJ1_56 Pin=P2-9
+Added Net: Name=NetJ1_56
+Added Pin To Net: NetName=NetJ1_58 Pin=J1-58
+Added Pin To Net: NetName=NetJ1_58 Pin=P2-10
+Added Net: Name=NetJ1_58
+Added Pin To Net: NetName=NetJ1_60 Pin=J1-60
+Added Pin To Net: NetName=NetJ1_60 Pin=P3-3
+Added Net: Name=NetJ1_60
+Added Pin To Net: NetName=NetJ1_62 Pin=J1-62
+Added Pin To Net: NetName=NetJ1_62 Pin=P3-4
+Added Net: Name=NetJ1_62
+Added Pin To Net: NetName=NetJ1_64 Pin=J1-64
+Added Pin To Net: NetName=NetJ1_64 Pin=R87-1
+Added Pin To Net: NetName=NetJ1_64 Pin=U25-7
+Added Net: Name=NetJ1_64
+Added Pin To Net: NetName=NetJ1_65 Pin=J1-65
+Added Pin To Net: NetName=NetJ1_65 Pin=U25-3
+Added Net: Name=NetJ1_65
+Added Pin To Net: NetName=NetJ1_66 Pin=J1-66
+Added Pin To Net: NetName=NetJ1_66 Pin=R88-1
+Added Pin To Net: NetName=NetJ1_66 Pin=U25-6
+Added Net: Name=NetJ1_66
+Added Pin To Net: NetName=NetJ1_67 Pin=J1-67
+Added Pin To Net: NetName=NetJ1_67 Pin=U25-2
+Added Net: Name=NetJ1_67
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component P3 LAN
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator

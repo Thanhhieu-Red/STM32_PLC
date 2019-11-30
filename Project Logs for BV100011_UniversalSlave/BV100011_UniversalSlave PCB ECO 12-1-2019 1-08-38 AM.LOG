@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5V_ISO Pin=P5-1
+Removed Pin From Net: NetName=GND0 Pin=P5-2
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=P5
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component P3 Header 3
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator

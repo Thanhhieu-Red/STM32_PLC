@@ -1,0 +1,164 @@
+Removed Pin From Net: NetName=+3.3V_ISO Pin=C50-1
+Removed Pin From Net: NetName=GND0 Pin=C50-2
+Removed Pin From Net: NetName=+3.3V Pin=C51-1
+Removed Pin From Net: NetName=GND Pin=C51-2
+Removed Pin From Net: NetName=+3.3V_ISO Pin=R103-1
+Removed Pin From Net: NetName=NetJ1_36 Pin=R103-2
+Removed Pin From Net: NetName=+3.3V_ISO Pin=R104-1
+Removed Pin From Net: NetName=NetJ1_34 Pin=R104-2
+Removed Pin From Net: NetName=+3.3V Pin=R105-1
+Removed Pin From Net: NetName=NetP2_9 Pin=R105-2
+Removed Pin From Net: NetName=+3.3V Pin=R106-1
+Removed Pin From Net: NetName=NetP2_10 Pin=R106-2
+Removed Pin From Net: NetName=+3.3V_ISO Pin=U30-1
+Removed Pin From Net: NetName=NetJ1_44 Pin=U30-2
+Removed Pin From Net: NetName=NetJ1_42 Pin=U30-3
+Removed Pin From Net: NetName=NetJ1_40 Pin=U30-4
+Removed Pin From Net: NetName=NetJ1_38 Pin=U30-5
+Removed Pin From Net: NetName=NetJ1_36 Pin=U30-6
+Removed Pin From Net: NetName=NetJ1_34 Pin=U30-7
+Removed Pin From Net: NetName=GND0 Pin=U30-8
+Removed Pin From Net: NetName=GND Pin=U30-9
+Removed Pin From Net: NetName=NetP2_10 Pin=U30-10
+Removed Pin From Net: NetName=NetP2_9 Pin=U30-11
+Removed Pin From Net: NetName=NetP2_8 Pin=U30-12
+Removed Pin From Net: NetName=NetP2_5 Pin=U30-13
+Removed Pin From Net: NetName=NetP2_6 Pin=U30-14
+Removed Pin From Net: NetName=NetP2_4 Pin=U30-15
+Removed Pin From Net: NetName=+3.3V Pin=U30-16
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=C2
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=C4
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=C7
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=C9
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=C10
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=C12
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=C15
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=C50
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=D4
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=D7
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=D9
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=IC1
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=LED3
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=LED8
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R1
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R1
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R3
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R4
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R4
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R4
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R6
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R6
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R9
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R11
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R14
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R17
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R17
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R18
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R18
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R19
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R19
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R21
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R21
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R22
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R22
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R28
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R29
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R29
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R30
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R30
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R32
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R32
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R35
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R35
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R37
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R37
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R38
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R38
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R43
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R46
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R50
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R54
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R57
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R63
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R69
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R70
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R72
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R75
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R103
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R104
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R106
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=U27
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C38 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C40 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C43 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C45 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlIsolator Member=Component C46 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlIsolator Member=Component C48 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component D10 STPS1H100A
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D13 SMBJ33A
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D15 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC3 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlDI Member=Component LED4 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlDI Member=Component LED5 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlDI Member=Component LED6 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlDI Member=Component LED7 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component LED9 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component LED10 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component LED12 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component LED13 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component LED14 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component LED15 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R31 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R33 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R34 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R36 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R39 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R41 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R44 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R47 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R48 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R49 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R51 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R52 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R58 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R59 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R60 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R61 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R62 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R64 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R65 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R66 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R67 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R68 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R73 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R76 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R77 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R78 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R79 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R80 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R81 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R82 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R84 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R85 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R86 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R87 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R89 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R90 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R92 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R93 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R94 Res3
+Added Member To Class: ClassName=U_BV100011_ControlIsolator Member=Component R95 Res3
+Added Member To Class: ClassName=U_BV100011_ControlIsolator Member=Component R97 Res3
+Added Member To Class: ClassName=U_BV100011_ControlIsolator Member=Component R98 Res3
+Added Member To Class: ClassName=U_BV100011_ControlIsolator Member=Component R99 Res3
+Added Member To Class: ClassName=U_BV100011_ControlIsolator Member=Component R100 Res3
+Added Member To Class: ClassName=U_BV100011_ControlIsolator Member=Component R102 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U9 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U14 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U22 MAX14626ETT+
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator

@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=+3.3V_ISO Pin=C48-1
+Removed Pin From Net: NetName=GND0 Pin=C48-2
+Removed Pin From Net: NetName=+3.3V Pin=C49-1
+Removed Pin From Net: NetName=GND Pin=C49-2
+Removed Pin From Net: NetName=+3.3V_ISO Pin=R99-1
+Removed Pin From Net: NetName=NetJ1_24 Pin=R99-2
+Removed Pin From Net: NetName=+3.3V_ISO Pin=R100-1
+Removed Pin From Net: NetName=NetJ1_22 Pin=R100-2
+Removed Pin From Net: NetName=+3.3V Pin=R101-1
+Removed Pin From Net: NetName=NetP2_2 Pin=R101-2
+Removed Pin From Net: NetName=+3.3V Pin=R102-1
+Removed Pin From Net: NetName=NetP2_3 Pin=R102-2
+Removed Pin From Net: NetName=+3.3V_ISO Pin=U29-1
+Removed Pin From Net: NetName=NetJ1_32 Pin=U29-2
+Removed Pin From Net: NetName=NetJ1_30 Pin=U29-3
+Removed Pin From Net: NetName=NetJ1_28 Pin=U29-4
+Removed Pin From Net: NetName=NetJ1_26 Pin=U29-5
+Removed Pin From Net: NetName=NetJ1_24 Pin=U29-6
+Removed Pin From Net: NetName=NetJ1_22 Pin=U29-7
+Removed Pin From Net: NetName=GND0 Pin=U29-8
+Removed Pin From Net: NetName=GND Pin=U29-9
+Removed Pin From Net: NetName=NetP2_3 Pin=U29-10
+Removed Pin From Net: NetName=NetP2_2 Pin=U29-11
+Removed Pin From Net: NetName=NetP2_1 Pin=U29-12
+Removed Pin From Net: NetName=NetP1_10 Pin=U29-13
+Removed Pin From Net: NetName=NetP1_9 Pin=U29-14
+Removed Pin From Net: NetName=NetP1_8 Pin=U29-15
+Removed Pin From Net: NetName=+3.3V Pin=U29-16
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=C48
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=C49
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R99
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R100
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R101
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=R102
+Removed Member From Class: ClassName=U_BV100011_ControlIsolator Member=U29
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
