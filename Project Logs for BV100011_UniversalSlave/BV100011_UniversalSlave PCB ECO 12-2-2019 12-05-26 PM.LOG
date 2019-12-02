@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R58
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R59
+Change Component Footprint: Designator=R57 Old Footprint=J1-0603 New Footprint=14-1210
+Change Component Footprint: Designator=R59 Old Footprint=J1-0603 New Footprint=14-1210
+Change Component Footprint: Designator=R61 Old Footprint=J1-0603 New Footprint=14-1210
+Change Component Footprint: Designator=R64 Old Footprint=J1-0603 New Footprint=14-1210
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component LED13 green
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component LED14 yellow
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component LED15 RED
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component LED16 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component P3 LAN
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R25 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R26 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R27 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R30 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R35 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R40 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R43 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R45 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R48 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R49 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R52 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R57 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R60 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R61 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R64 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R69 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R72 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R77 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R80 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R85 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R90 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R93 Res3
+Added Member To Class: ClassName=U_BV100011_ControlIsolator Member=Component R98 Res3
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
