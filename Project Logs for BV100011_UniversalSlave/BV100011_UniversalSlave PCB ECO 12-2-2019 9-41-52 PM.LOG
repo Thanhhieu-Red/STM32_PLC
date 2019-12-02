@@ -1,0 +1,192 @@
+Removed Pin From Net: NetName=GND Pin=R58-1
+Removed Pin From Net: NetName=GND Pin=R62-1
+Removed Pin From Net: NetName=GND Pin=R74-1
+Removed Pin From Net: NetName=GND Pin=R78-1
+Removed Pin From Net: NetName=GND Pin=R82-1
+Removed Pin From Net: NetName=GND Pin=R86-1
+Removed Pin From Net: NetName=NetR66_2 Pin=U7-3
+Removed Pin From Net: NetName=NetR70_2 Pin=U7-5
+Removed Pin From Net: NetName=NetR66_2 Pin=U10-6
+Removed Pin From Net: NetName=NetR70_2 Pin=U12-6
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D21
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D22
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D23
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D24
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D25
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D26
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D27
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=D28
+Change Component Designator: OldDesignator=R59 NewDesignator=R58
+Change Component Designator: OldDesignator=R60 NewDesignator=R59
+Change Component Designator: OldDesignator=R61 NewDesignator=R60
+Change Component Designator: OldDesignator=R63 NewDesignator=R61
+Change Component Designator: OldDesignator=R64 NewDesignator=R62
+Change Component Designator: OldDesignator=R65 NewDesignator=R71
+Change Component Designator: OldDesignator=R67 NewDesignator=R72
+Change Component Designator: OldDesignator=R68 NewDesignator=R73
+Change Component Designator: OldDesignator=R69 NewDesignator=R74
+Change Component Designator: OldDesignator=R71 NewDesignator=R75
+Change Component Designator: OldDesignator=R72 NewDesignator=R76
+Change Component Designator: OldDesignator=R73 NewDesignator=R77
+Change Component Designator: OldDesignator=R75 NewDesignator=R78
+Change Component Designator: OldDesignator=R76 NewDesignator=R79
+Change Component Designator: OldDesignator=R77 NewDesignator=R80
+Change Component Designator: OldDesignator=R79 NewDesignator=R81
+Change Component Designator: OldDesignator=R80 NewDesignator=R82
+Change Component Designator: OldDesignator=R81 NewDesignator=R83
+Change Component Designator: OldDesignator=R83 NewDesignator=R84
+Change Component Designator: OldDesignator=R84 NewDesignator=R85
+Change Component Designator: OldDesignator=R85 NewDesignator=R86
+Added Component: Designator=R63(14-1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Component: Designator=R64(14-1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Component: Designator=R65(14-1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Component: Designator=R67(14-1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Component: Designator=R68(14-1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Component: Designator=R69(14-1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Component: Designator=S1(416131160808)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/em/datasheet/4161311608xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "416131160808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-416131160808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-416131160808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7856119"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7856119"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=GND Pin=R64-1
+Added Pin To Net: NetName=GND Pin=R65-1
+Added Pin To Net: NetName=GND Pin=R67-1
+Added Pin To Net: NetName=GND Pin=R68-1
+Added Pin To Net: NetName=GND Pin=R69-1
+Added Pin To Net: NetName=NetR66_2 Pin=S1-8
+Added Pin To Net: NetName=NetR70_2 Pin=S1-10
+Change Net Name : Old Net Name=NetR59_2 New Net Name=NetR58_2
+Change Net Name : Old Net Name=NetR60_1 New Net Name=NetR59_1
+Change Net Name : Old Net Name=NetR63_1 New Net Name=NetR61_1
+Change Net Name : Old Net Name=NetR65_2 New Net Name=NetR71_2
+Change Net Name : Old Net Name=NetR67_2 New Net Name=NetR72_2
+Change Net Name : Old Net Name=NetR68_1 New Net Name=NetR73_1
+Change Net Name : Old Net Name=NetR71_1 New Net Name=NetR75_1
+Change Net Name : Old Net Name=NetR73_2 New Net Name=NetR77_2
+Change Net Name : Old Net Name=NetR75_2 New Net Name=NetR78_2
+Change Net Name : Old Net Name=NetR76_1 New Net Name=NetR79_1
+Change Net Name : Old Net Name=NetR79_1 New Net Name=NetR81_1
+Change Net Name : Old Net Name=NetR81_2 New Net Name=NetR83_2
+Change Net Name : Old Net Name=NetR83_2 New Net Name=NetR84_2
+Change Net Name : Old Net Name=NetR84_1 New Net Name=NetR85_1
+Added Pin To Net: NetName=DSW_AI0 Pin=S1-1
+Added Pin To Net: NetName=DSW_AI0 Pin=U1-3
+Added Pin To Net: NetName=DSW_AI0 Pin=U4-6
+Added Net: Name=DSW_AI0
+Added Pin To Net: NetName=DSW_AI1 Pin=S1-3
+Added Pin To Net: NetName=DSW_AI1 Pin=U1-5
+Added Pin To Net: NetName=DSW_AI1 Pin=U6-6
+Added Net: Name=DSW_AI1
+Added Pin To Net: NetName=DSW_AI2 Pin=S1-5
+Added Pin To Net: NetName=DSW_AI2 Pin=U7-3
+Added Pin To Net: NetName=DSW_AI2 Pin=U10-6
+Added Net: Name=DSW_AI2
+Added Pin To Net: NetName=DSW_AI3 Pin=S1-7
+Added Pin To Net: NetName=DSW_AI3 Pin=U7-5
+Added Pin To Net: NetName=DSW_AI3 Pin=U12-6
+Added Net: Name=DSW_AI3
+Added Pin To Net: NetName=DSW_AI4 Pin=S1-9
+Added Pin To Net: NetName=DSW_AI4 Pin=U13-3
+Added Pin To Net: NetName=DSW_AI4 Pin=U16-6
+Added Net: Name=DSW_AI4
+Added Pin To Net: NetName=DSW_AI5 Pin=S1-11
+Added Pin To Net: NetName=DSW_AI5 Pin=U13-5
+Added Pin To Net: NetName=DSW_AI5 Pin=U18-6
+Added Net: Name=DSW_AI5
+Added Pin To Net: NetName=DSW_AI6 Pin=S1-13
+Added Pin To Net: NetName=DSW_AI6 Pin=U19-3
+Added Pin To Net: NetName=DSW_AI6 Pin=U22-6
+Added Net: Name=DSW_AI6
+Added Pin To Net: NetName=DSW_AI7 Pin=S1-15
+Added Pin To Net: NetName=DSW_AI7 Pin=U19-5
+Added Pin To Net: NetName=DSW_AI7 Pin=U24-6
+Added Net: Name=DSW_AI7
+Added Pin To Net: NetName=NetR63_2 Pin=R63-2
+Added Pin To Net: NetName=NetR63_2 Pin=S1-2
+Added Net: Name=NetR63_2
+Added Pin To Net: NetName=NetR64_2 Pin=R64-2
+Added Pin To Net: NetName=NetR64_2 Pin=S1-4
+Added Net: Name=NetR64_2
+Added Pin To Net: NetName=NetR65_2 Pin=R65-2
+Added Pin To Net: NetName=NetR65_2 Pin=S1-6
+Added Net: Name=NetR65_2
+Added Pin To Net: NetName=NetR67_2 Pin=R67-2
+Added Pin To Net: NetName=NetR67_2 Pin=S1-16
+Added Net: Name=NetR67_2
+Added Pin To Net: NetName=NetR68_2 Pin=R68-2
+Added Pin To Net: NetName=NetR68_2 Pin=S1-14
+Added Net: Name=NetR68_2
+Added Pin To Net: NetName=NetR69_2 Pin=R69-2
+Added Pin To Net: NetName=NetR69_2 Pin=S1-12
+Added Net: Name=NetR69_2
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D11 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D12 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D13 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D14 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D15 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D16 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D17 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D18 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D19 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D20 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component S1 416131160808
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator

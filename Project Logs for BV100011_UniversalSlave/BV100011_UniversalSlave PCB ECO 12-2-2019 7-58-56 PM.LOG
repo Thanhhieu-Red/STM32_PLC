@@ -1,0 +1,124 @@
+Change Component Designator: OldDesignator=D11 NewDesignator=D19
+Change Component Designator: OldDesignator=D12 NewDesignator=D20
+Change Component Designator: OldDesignator=D13 NewDesignator=D21
+Change Component Designator: OldDesignator=D14 NewDesignator=D22
+Change Component Designator: OldDesignator=D15 NewDesignator=D23
+Change Component Designator: OldDesignator=D16 NewDesignator=D24
+Change Component Designator: OldDesignator=D17 NewDesignator=D25
+Change Component Designator: OldDesignator=D18 NewDesignator=D26
+Change Component Designator: OldDesignator=D19 NewDesignator=D27
+Change Component Designator: OldDesignator=D20 NewDesignator=D28
+Added Component: Designator=D11(DIONM5026X229N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1719613P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1719613P"; VariantName = "[No Variations]"
+Added Component: Designator=D12(DIONM5026X229N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1719613P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1719613P"; VariantName = "[No Variations]"
+Added Component: Designator=D13(DIONM5026X229N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1719613P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1719613P"; VariantName = "[No Variations]"
+Added Component: Designator=D14(DIONM5026X229N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1719613P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1719613P"; VariantName = "[No Variations]"
+Added Component: Designator=D15(DIONM5026X229N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1719613P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1719613P"; VariantName = "[No Variations]"
+Added Component: Designator=D16(DIONM5026X229N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1719613P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1719613P"; VariantName = "[No Variations]"
+Added Component: Designator=D17(DIONM5026X229N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1719613P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1719613P"; VariantName = "[No Variations]"
+Added Component: Designator=D18(DIONM5026X229N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=576-SMAJ24CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1719613P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1719613P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=AI0 Pin=D11-2
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=AI1 Pin=D12-2
+Added Pin To Net: NetName=GND Pin=D13-1
+Added Pin To Net: NetName=AI2 Pin=D13-2
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=AI3 Pin=D14-2
+Added Pin To Net: NetName=GND Pin=D15-1
+Added Pin To Net: NetName=AI4 Pin=D15-2
+Added Pin To Net: NetName=GND Pin=D16-1
+Added Pin To Net: NetName=AI5 Pin=D16-2
+Added Pin To Net: NetName=GND Pin=D17-1
+Added Pin To Net: NetName=AI6 Pin=D17-2
+Added Pin To Net: NetName=GND Pin=D18-1
+Added Pin To Net: NetName=AI7 Pin=D18-2
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetD19_2
+Change Net Name : Old Net Name=NetD14_2 New Net Name=NetD22_2
+Change Net Name : Old Net Name=NetD16_2 New Net Name=NetD24_2
+Change Net Name : Old Net Name=NetD19_2 New Net Name=NetD27_2
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D11 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D12 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D13 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D14 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D15 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D16 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D17 SMAJ24CA
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component D18 SMAJ24CA
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
