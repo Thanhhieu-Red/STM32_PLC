@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND0 Pin=J1-6
+Change Component Designator: OldDesignator=U28 NewDesignator=U29
+Added Component: Designator=U28(BATHLD001THM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/238/BAT-HLD-001-THM Diagram-1175214.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Linx Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BAT-HLD-001-THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "712-BAT-HLD-001-THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=712-BAT-HLD-001-THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND0 Pin=U28-5
+Change Net Name : Old Net Name=NetU28_12 New Net Name=NetU29_12
+Change Net Name : Old Net Name=NetU28_13 New Net Name=NetU29_13
+Change Net Name : Old Net Name=NetU28_14 New Net Name=NetU29_14
+Change Net Name : Old Net Name=NetU28_15 New Net Name=NetU29_15
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_6 Pin=U28-1
+Added Pin To Net: NetName=NetJ1_6 Pin=U28-2
+Added Pin To Net: NetName=NetJ1_6 Pin=U28-3
+Added Pin To Net: NetName=NetJ1_6 Pin=U28-4
+Added Net: Name=NetJ1_6
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R58 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R59 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R61 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R62 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R63 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R64 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R65 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R67 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R68 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R69 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R73 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R74 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R75 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R76 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R77 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R78 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R79 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R82 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R84 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R85 Res3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R86 Res3
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component U28 BAT-HLD-001-THM
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
