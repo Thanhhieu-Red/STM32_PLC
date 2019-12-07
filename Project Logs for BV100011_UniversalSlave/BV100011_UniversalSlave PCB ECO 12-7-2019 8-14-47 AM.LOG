@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetJ1_47 Pin=P1-1
+Removed Pin From Net: NetName=NetJ1_45 Pin=P1-2
+Removed Pin From Net: NetName=NetJ1_43 Pin=P1-3
+Removed Pin From Net: NetName=NetJ1_41 Pin=P1-4
+Removed Pin From Net: NetName=NetJ1_39 Pin=P1-5
+Removed Pin From Net: NetName=NetJ1_37 Pin=P1-6
+Removed Pin From Net: NetName=NetJ1_35 Pin=P1-7
+Removed Pin From Net: NetName=NetJ1_33 Pin=P1-8
+Removed Pin From Net: NetName=NetJ1_31 Pin=P1-9
+Removed Pin From Net: NetName=NetJ1_29 Pin=P1-10
+Added Pin To Net: NetName=NetJ1_29 Pin=P1-1
+Added Pin To Net: NetName=NetJ1_31 Pin=P1-2
+Added Pin To Net: NetName=NetJ1_33 Pin=P1-3
+Added Pin To Net: NetName=NetJ1_35 Pin=P1-4
+Added Pin To Net: NetName=NetJ1_37 Pin=P1-5
+Added Pin To Net: NetName=NetJ1_39 Pin=P1-6
+Added Pin To Net: NetName=NetJ1_41 Pin=P1-7
+Added Pin To Net: NetName=NetJ1_43 Pin=P1-8
+Added Pin To Net: NetName=NetJ1_45 Pin=P1-9
+Added Pin To Net: NetName=NetJ1_47 Pin=P1-10
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator

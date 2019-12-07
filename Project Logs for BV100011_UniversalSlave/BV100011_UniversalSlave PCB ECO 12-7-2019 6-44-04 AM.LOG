@@ -1,0 +1,192 @@
+Removed Pin From Net: NetName=+5V_ISO Pin=J?-1
+Removed Pin From Net: NetName=+3.3V_ISO Pin=J?-2
+Removed Pin From Net: NetName=uC_DI7 Pin=J?-3
+Removed Pin From Net: NetName=NetJ?_4 Pin=J?-4
+Removed Pin From Net: NetName=uC_DI6 Pin=J?-5
+Removed Pin From Net: NetName=GND0 Pin=J?-6
+Removed Pin From Net: NetName=uC_DI5 Pin=J?-7
+Removed Pin From Net: NetName=uC_DI4 Pin=J?-9
+Removed Pin From Net: NetName=uC_DI3 Pin=J?-11
+Removed Pin From Net: NetName=uC_DI2 Pin=J?-13
+Removed Pin From Net: NetName=uC_DI1 Pin=J?-15
+Removed Pin From Net: NetName=uC_DI0 Pin=J?-17
+Removed Pin From Net: NetName=GND0 Pin=J?-19
+Removed Pin From Net: NetName=GND0 Pin=J?-45
+Removed Pin From Net: NetName=NetJ?_25 Pin=LED13-1
+Removed Pin From Net: NetName=NetJ?_23 Pin=LED14-1
+Removed Pin From Net: NetName=NetJ?_43 Pin=LED15-1
+Removed Pin From Net: NetName=NetJ?_20 Pin=P1-1
+Removed Pin From Net: NetName=NetJ?_24 Pin=P1-3
+Removed Pin From Net: NetName=NetJ?_26 Pin=P1-4
+Removed Pin From Net: NetName=NetJ?_28 Pin=P1-5
+Removed Pin From Net: NetName=NetJ?_30 Pin=P1-6
+Removed Pin From Net: NetName=NetJ?_32 Pin=P1-7
+Removed Pin From Net: NetName=NetJ?_34 Pin=P1-8
+Removed Pin From Net: NetName=NetJ?_36 Pin=P1-9
+Removed Pin From Net: NetName=NetJ?_38 Pin=P1-10
+Removed Pin From Net: NetName=NetJ?_40 Pin=P3-1
+Removed Pin From Net: NetName=NetJ?_42 Pin=P3-2
+Removed Pin From Net: NetName=NetJ?_44 Pin=P3-3
+Removed Pin From Net: NetName=NetJ?_46 Pin=P3-4
+Removed Pin From Net: NetName=NetJ?_21 Pin=R31-1
+Removed Pin From Net: NetName=NetJ?_23 Pin=R32-1
+Removed Pin From Net: NetName=NetJ?_25 Pin=R33-1
+Removed Pin From Net: NetName=NetJ?_27 Pin=R34-1
+Removed Pin From Net: NetName=NetJ?_29 Pin=R35-1
+Removed Pin From Net: NetName=NetJ?_31 Pin=R36-1
+Removed Pin From Net: NetName=NetJ?_33 Pin=R37-1
+Removed Pin From Net: NetName=NetJ?_35 Pin=R38-1
+Removed Pin From Net: NetName=NetJ?_37 Pin=R39-1
+Removed Pin From Net: NetName=NetJ?_39 Pin=R40-1
+Removed Pin From Net: NetName=NetJ?_41 Pin=R41-1
+Removed Pin From Net: NetName=NetJ?_43 Pin=R42-1
+Removed Pin From Net: NetName=NetJ?_41 Pin=R46-1
+Removed Pin From Net: NetName=NetJ?_39 Pin=R49-1
+Removed Pin From Net: NetName=NetJ?_37 Pin=R50-1
+Removed Pin From Net: NetName=NetJ?_35 Pin=R51-1
+Removed Pin From Net: NetName=NetJ?_33 Pin=R52-1
+Removed Pin From Net: NetName=NetJ?_31 Pin=R53-1
+Removed Pin From Net: NetName=NetJ?_29 Pin=R54-1
+Removed Pin From Net: NetName=NetJ?_27 Pin=R55-1
+Removed Pin From Net: NetName=NetJ?_21 Pin=R56-1
+Removed Pin From Net: NetName=NetJ?_10 Pin=R97-2
+Removed Pin From Net: NetName=NetJ?_8 Pin=R98-2
+Removed Pin From Net: NetName=NetJ?_59 Pin=U3-1
+Removed Pin From Net: NetName=NetJ?_59 Pin=U3-2
+Removed Pin From Net: NetName=NetJ?_55 Pin=U9-1
+Removed Pin From Net: NetName=NetJ?_55 Pin=U9-2
+Removed Pin From Net: NetName=NetJ?_57 Pin=U9-6
+Removed Pin From Net: NetName=NetJ?_57 Pin=U9-7
+Removed Pin From Net: NetName=NetJ?_51 Pin=U15-1
+Removed Pin From Net: NetName=NetJ?_51 Pin=U15-2
+Removed Pin From Net: NetName=NetJ?_53 Pin=U15-6
+Removed Pin From Net: NetName=NetJ?_53 Pin=U15-7
+Removed Pin From Net: NetName=NetJ?_47 Pin=U21-1
+Removed Pin From Net: NetName=NetJ?_47 Pin=U21-2
+Removed Pin From Net: NetName=NetJ?_49 Pin=U21-6
+Removed Pin From Net: NetName=NetJ?_49 Pin=U21-7
+Removed Pin From Net: NetName=NetJ?_18 Pin=U29-2
+Removed Pin From Net: NetName=NetJ?_16 Pin=U29-3
+Removed Pin From Net: NetName=NetJ?_14 Pin=U29-4
+Removed Pin From Net: NetName=NetJ?_12 Pin=U29-5
+Removed Pin From Net: NetName=NetJ?_10 Pin=U29-6
+Removed Pin From Net: NetName=NetJ?_8 Pin=U29-7
+Added Pin To Net: NetName=GND0 Pin=J?-22
+Added Pin To Net: NetName=GND0 Pin=J?-48
+Added Pin To Net: NetName=uC_DI0 Pin=J?-50
+Added Pin To Net: NetName=uC_DI1 Pin=J?-52
+Added Pin To Net: NetName=uC_DI2 Pin=J?-54
+Added Pin To Net: NetName=uC_DI3 Pin=J?-56
+Added Pin To Net: NetName=uC_DI4 Pin=J?-58
+Added Pin To Net: NetName=uC_DI5 Pin=J?-60
+Added Pin To Net: NetName=GND0 Pin=J?-61
+Added Pin To Net: NetName=uC_DI6 Pin=J?-62
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-63
+Added Pin To Net: NetName=uC_DI7 Pin=J?-64
+Added Pin To Net: NetName=+3.3V_ISO Pin=J?-65
+Added Pin To Net: NetName=+5V_ISO Pin=J?-66
+Added Pin To Net: NetName=+3.3V_ISO Pin=J?-67
+Added Pin To Net: NetName=NetJ?_42 Pin=LED13-1
+Added Pin To Net: NetName=NetJ?_44 Pin=LED14-1
+Added Pin To Net: NetName=NetJ?_24 Pin=LED15-1
+Added Pin To Net: NetName=NetJ?_47 Pin=P1-1
+Added Pin To Net: NetName=NetJ?_43 Pin=P1-3
+Added Pin To Net: NetName=NetJ?_41 Pin=P1-4
+Added Pin To Net: NetName=NetJ?_39 Pin=P1-5
+Added Pin To Net: NetName=NetJ?_37 Pin=P1-6
+Added Pin To Net: NetName=NetJ?_35 Pin=P1-7
+Added Pin To Net: NetName=NetJ?_33 Pin=P1-8
+Added Pin To Net: NetName=NetJ?_31 Pin=P1-9
+Added Pin To Net: NetName=NetJ?_29 Pin=P1-10
+Added Pin To Net: NetName=NetJ?_27 Pin=P3-1
+Added Pin To Net: NetName=NetJ?_25 Pin=P3-2
+Added Pin To Net: NetName=NetJ?_23 Pin=P3-3
+Added Pin To Net: NetName=NetJ?_21 Pin=P3-4
+Added Pin To Net: NetName=NetJ?_46 Pin=R31-1
+Added Pin To Net: NetName=NetJ?_44 Pin=R32-1
+Added Pin To Net: NetName=NetJ?_42 Pin=R33-1
+Added Pin To Net: NetName=NetJ?_40 Pin=R34-1
+Added Pin To Net: NetName=NetJ?_38 Pin=R35-1
+Added Pin To Net: NetName=NetJ?_36 Pin=R36-1
+Added Pin To Net: NetName=NetJ?_34 Pin=R37-1
+Added Pin To Net: NetName=NetJ?_32 Pin=R38-1
+Added Pin To Net: NetName=NetJ?_30 Pin=R39-1
+Added Pin To Net: NetName=NetJ?_28 Pin=R40-1
+Added Pin To Net: NetName=NetJ?_26 Pin=R41-1
+Added Pin To Net: NetName=NetJ?_24 Pin=R42-1
+Added Pin To Net: NetName=NetJ?_26 Pin=R46-1
+Added Pin To Net: NetName=NetJ?_28 Pin=R49-1
+Added Pin To Net: NetName=NetJ?_30 Pin=R50-1
+Added Pin To Net: NetName=NetJ?_32 Pin=R51-1
+Added Pin To Net: NetName=NetJ?_34 Pin=R52-1
+Added Pin To Net: NetName=NetJ?_36 Pin=R53-1
+Added Pin To Net: NetName=NetJ?_38 Pin=R54-1
+Added Pin To Net: NetName=NetJ?_40 Pin=R55-1
+Added Pin To Net: NetName=NetJ?_46 Pin=R56-1
+Added Pin To Net: NetName=NetJ?_57 Pin=R97-2
+Added Pin To Net: NetName=NetJ?_59 Pin=R98-2
+Added Pin To Net: NetName=NetJ?_8 Pin=U3-1
+Added Pin To Net: NetName=NetJ?_8 Pin=U3-2
+Added Pin To Net: NetName=NetJ?_12 Pin=U9-1
+Added Pin To Net: NetName=NetJ?_12 Pin=U9-2
+Added Pin To Net: NetName=NetJ?_10 Pin=U9-6
+Added Pin To Net: NetName=NetJ?_10 Pin=U9-7
+Added Pin To Net: NetName=NetJ?_16 Pin=U15-1
+Added Pin To Net: NetName=NetJ?_16 Pin=U15-2
+Added Pin To Net: NetName=NetJ?_14 Pin=U15-6
+Added Pin To Net: NetName=NetJ?_14 Pin=U15-7
+Added Pin To Net: NetName=NetJ?_20 Pin=U21-1
+Added Pin To Net: NetName=NetJ?_20 Pin=U21-2
+Added Pin To Net: NetName=NetJ?_18 Pin=U21-6
+Added Pin To Net: NetName=NetJ?_18 Pin=U21-7
+Added Pin To Net: NetName=NetJ?_49 Pin=U29-2
+Added Pin To Net: NetName=NetJ?_51 Pin=U29-3
+Added Pin To Net: NetName=NetJ?_53 Pin=U29-4
+Added Pin To Net: NetName=NetJ?_55 Pin=U29-5
+Added Pin To Net: NetName=NetJ?_57 Pin=U29-6
+Added Pin To Net: NetName=NetJ?_59 Pin=U29-7
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ?_63
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=U25-2
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=U25-3
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=R89-1
+Added Pin To Net: NetName=NetJ?_5 Pin=U25-7
+Added Net: Name=NetJ?_5
+Added Pin To Net: NetName=NetJ?_6 Pin=J?-6
+Added Pin To Net: NetName=NetJ?_6 Pin=U3-6
+Added Pin To Net: NetName=NetJ?_6 Pin=U3-7
+Added Net: Name=NetJ?_6
+Added Pin To Net: NetName=NetJ?_7 Pin=J?-7
+Added Pin To Net: NetName=NetJ?_7 Pin=P4-4
+Added Net: Name=NetJ?_7
+Added Pin To Net: NetName=NetJ?_9 Pin=J?-9
+Added Pin To Net: NetName=NetJ?_9 Pin=P4-3
+Added Net: Name=NetJ?_9
+Added Pin To Net: NetName=NetJ?_11 Pin=J?-11
+Added Pin To Net: NetName=NetJ?_11 Pin=P3-10
+Added Net: Name=NetJ?_11
+Added Pin To Net: NetName=NetJ?_13 Pin=J?-13
+Added Pin To Net: NetName=NetJ?_13 Pin=P3-9
+Added Net: Name=NetJ?_13
+Added Pin To Net: NetName=NetJ?_15 Pin=J?-15
+Added Pin To Net: NetName=NetJ?_15 Pin=P3-8
+Added Net: Name=NetJ?_15
+Added Pin To Net: NetName=NetJ?_17 Pin=J?-17
+Added Pin To Net: NetName=NetJ?_17 Pin=P3-6
+Added Net: Name=NetJ?_17
+Added Pin To Net: NetName=NetJ?_19 Pin=J?-19
+Added Pin To Net: NetName=NetJ?_19 Pin=P3-5
+Added Net: Name=NetJ?_19
+Added Pin To Net: NetName=NetJ?_45 Pin=J?-45
+Added Pin To Net: NetName=NetJ?_45 Pin=P1-2
+Added Net: Name=NetJ?_45
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIsolator
