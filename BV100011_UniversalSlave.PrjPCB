@@ -276,7 +276,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HSWKCIGG
 
 [Document15]
-DocumentPath=BV100011_ControlIsolator.SchDoc
+DocumentPath=BV100011_ControlIRS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -328,6 +328,23 @@ DocumentUniqueId=
 
 [Document18]
 DocumentPath=BV100011_ControlConnector.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=BV100011_ControlIRS485.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

@@ -1,0 +1,126 @@
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R?
+Change Component Designator: OldDesignator=C48 NewDesignator=C49
+Change Component Designator: OldDesignator=C49 NewDesignator=C50
+Change Component Designator: OldDesignator=C? NewDesignator=C48
+Change Component Designator: OldDesignator=C? NewDesignator=C51
+Change Component Designator: OldDesignator=D? NewDesignator=D29
+Change Component Designator: OldDesignator=D? NewDesignator=D30
+Change Component Designator: OldDesignator=D? NewDesignator=D31
+Change Component Designator: OldDesignator=IC? NewDesignator=IC5
+Change Component Designator: OldDesignator=IC? NewDesignator=IC6
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=R97 NewDesignator=R99
+Change Component Designator: OldDesignator=R98 NewDesignator=R100
+Change Component Designator: OldDesignator=R99 NewDesignator=R102
+Change Component Designator: OldDesignator=R100 NewDesignator=R101
+Added Component: Designator=R97(14-1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Added Component: Designator=R98(14-1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetIC5_1
+Change Net Name : Old Net Name=NetIC?_2 New Net Name=NetIC5_2
+Change Net Name : Old Net Name=NetIC?_3 New Net Name=NetIC6_3
+Change Net Name : Old Net Name=NetIC?_4 New Net Name=NetIC5_4
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=NetJ2_4
+Change Net Name : Old Net Name=NetJ1_5 New Net Name=NetJ2_5
+Change Net Name : Old Net Name=NetJ1_6 New Net Name=NetJ2_6
+Change Net Name : Old Net Name=NetJ1_7 New Net Name=NetJ2_7
+Change Net Name : Old Net Name=NetJ1_8 New Net Name=NetJ2_8
+Change Net Name : Old Net Name=NetJ1_9 New Net Name=NetJ2_9
+Change Net Name : Old Net Name=NetJ1_10 New Net Name=NetJ2_10
+Change Net Name : Old Net Name=NetJ1_11 New Net Name=NetJ2_11
+Change Net Name : Old Net Name=NetJ1_12 New Net Name=NetJ2_12
+Change Net Name : Old Net Name=NetJ1_13 New Net Name=NetJ2_13
+Change Net Name : Old Net Name=NetJ1_14 New Net Name=NetJ2_14
+Change Net Name : Old Net Name=NetJ1_15 New Net Name=NetJ2_15
+Change Net Name : Old Net Name=NetJ1_16 New Net Name=NetJ2_16
+Change Net Name : Old Net Name=NetJ1_17 New Net Name=NetJ2_17
+Change Net Name : Old Net Name=NetJ1_18 New Net Name=NetJ2_18
+Change Net Name : Old Net Name=NetJ1_19 New Net Name=NetJ2_19
+Change Net Name : Old Net Name=NetJ1_20 New Net Name=NetJ2_20
+Change Net Name : Old Net Name=NetJ1_21 New Net Name=NetJ2_21
+Change Net Name : Old Net Name=NetJ1_23 New Net Name=NetJ2_23
+Change Net Name : Old Net Name=NetJ1_24 New Net Name=NetJ2_24
+Change Net Name : Old Net Name=NetJ1_25 New Net Name=NetJ2_25
+Change Net Name : Old Net Name=NetJ1_26 New Net Name=NetJ2_26
+Change Net Name : Old Net Name=NetJ1_27 New Net Name=NetJ2_27
+Change Net Name : Old Net Name=NetJ1_28 New Net Name=NetJ2_28
+Change Net Name : Old Net Name=NetJ1_29 New Net Name=NetJ2_29
+Change Net Name : Old Net Name=NetJ1_30 New Net Name=NetJ2_30
+Change Net Name : Old Net Name=NetJ1_31 New Net Name=NetJ2_31
+Change Net Name : Old Net Name=NetJ1_32 New Net Name=NetJ2_32
+Change Net Name : Old Net Name=NetJ1_33 New Net Name=NetJ2_33
+Change Net Name : Old Net Name=NetJ1_34 New Net Name=NetJ2_34
+Change Net Name : Old Net Name=NetJ1_35 New Net Name=NetJ2_35
+Change Net Name : Old Net Name=NetJ1_36 New Net Name=NetJ2_36
+Change Net Name : Old Net Name=NetJ1_37 New Net Name=NetJ2_37
+Change Net Name : Old Net Name=NetJ1_38 New Net Name=NetJ2_38
+Change Net Name : Old Net Name=NetJ1_39 New Net Name=NetJ2_39
+Change Net Name : Old Net Name=NetJ1_40 New Net Name=NetJ2_40
+Change Net Name : Old Net Name=NetJ1_41 New Net Name=NetJ2_41
+Change Net Name : Old Net Name=NetJ1_42 New Net Name=NetJ2_42
+Change Net Name : Old Net Name=NetJ1_43 New Net Name=NetJ2_43
+Change Net Name : Old Net Name=NetJ1_44 New Net Name=NetJ2_44
+Change Net Name : Old Net Name=NetJ1_45 New Net Name=NetJ2_45
+Change Net Name : Old Net Name=NetJ1_46 New Net Name=NetJ2_46
+Change Net Name : Old Net Name=NetJ1_47 New Net Name=NetJ2_47
+Change Net Name : Old Net Name=NetJ1_49 New Net Name=NetJ2_49
+Change Net Name : Old Net Name=NetJ1_51 New Net Name=NetJ2_51
+Change Net Name : Old Net Name=NetJ1_53 New Net Name=NetJ2_53
+Change Net Name : Old Net Name=NetJ1_55 New Net Name=NetJ2_55
+Change Net Name : Old Net Name=NetJ1_57 New Net Name=NetJ2_57
+Change Net Name : Old Net Name=NetJ1_63 New Net Name=NetJ2_63
+Change Net Name : Old Net Name=NetR98_2 New Net Name=NetR100_2
+Change Net Name : Old Net Name=NetR100_2 New Net Name=NetR101_2
+Added Pin To Net: NetName=NetD29_1 Pin=D29-1
+Added Pin To Net: NetName=NetD29_1 Pin=IC5-7
+Added Net: Name=NetD29_1
+Added Pin To Net: NetName=NetD29_2 Pin=D29-2
+Added Pin To Net: NetName=NetD29_2 Pin=IC5-6
+Added Pin To Net: NetName=NetD29_2 Pin=R97-2
+Added Net: Name=NetD29_2
+Added Pin To Net: NetName=NetD30_1 Pin=D30-1
+Added Pin To Net: NetName=NetD30_1 Pin=IC6-6
+Added Net: Name=NetD30_1
+Added Pin To Net: NetName=NetD30_2 Pin=D30-2
+Added Pin To Net: NetName=NetD30_2 Pin=IC6-5
+Added Net: Name=NetD30_2
+Added Pin To Net: NetName=NetD31_1 Pin=D31-1
+Added Pin To Net: NetName=NetD31_1 Pin=IC6-8
+Added Net: Name=NetD31_1
+Added Pin To Net: NetName=NetD31_2 Pin=D31-2
+Added Pin To Net: NetName=NetD31_2 Pin=IC6-7
+Added Pin To Net: NetName=NetD31_2 Pin=R98-2
+Added Net: Name=NetD31_2
+Added Pin To Net: NetName=NetIC6_2 Pin=IC6-2
+Added Pin To Net: NetName=NetIC6_2 Pin=U29-12
+Added Net: Name=NetIC6_2
+Added Pin To Net: NetName=NetJ6_3 Pin=R97-1
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ6_4 Pin=R98-1
+Added Net: Name=NetJ6_4
+Added Member To Class: ClassName=U_BV100011_ControlIRS485 Member=Component C50 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlIRS485 Member=Component D30 CDSOT23-SM712
+Added Member To Class: ClassName=U_BV100011_ControlIRS485 Member=Component D31 CDSOT23-SM712
+Added Member To Class: ClassName=U_BV100011_ControlIRS485 Member=Component IC6 MAX14789EGSA+
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R97 Res3
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R98 Res3
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO

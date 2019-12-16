@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R99
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R100
+Added Component: Designator=J6(2.5mm pitch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD29_1 Pin=J6-1
+Added Pin To Net: NetName=NetD29_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetD31_1 Pin=J6-5
+Added Pin To Net: NetName=NetD31_2 Pin=J6-6
+Added Pin To Net: NetName=NetD30_2 Pin=J6-7
+Added Pin To Net: NetName=NetD30_1 Pin=J6-8
+Added Member To Class: ClassName=U_BV100011_ControlIRS485 Member=Component C48 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlIRS485 Member=Component C51 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlIRS485 Member=Component D29 CDSOT23-SM712
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J2 2199230-8
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J6 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R97 Res3
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R98 Res3
