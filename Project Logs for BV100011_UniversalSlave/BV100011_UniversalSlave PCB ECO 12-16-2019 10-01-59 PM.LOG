@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetD27_2 Pin=J5-1
+Removed Pin From Net: NetName=NetD24_2 Pin=J5-2
+Removed Pin From Net: NetName=NetD22_2 Pin=J5-3
+Removed Pin From Net: NetName=NetD19_2 Pin=J5-4
+Added Pin To Net: NetName=NetD19_2 Pin=J5-1
+Added Pin To Net: NetName=NetD22_2 Pin=J5-2
+Added Pin To Net: NetName=NetD24_2 Pin=J5-3
+Added Pin To Net: NetName=NetD27_2 Pin=J5-4
+Added Room: Name=BV100011_ControlTopLevel
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIRS485

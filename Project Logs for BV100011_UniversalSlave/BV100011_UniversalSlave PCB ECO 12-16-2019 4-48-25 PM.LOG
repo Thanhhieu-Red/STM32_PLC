@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetD30_2 Pin=J6-7
+Removed Pin From Net: NetName=NetD30_1 Pin=J6-8
+Added Pin To Net: NetName=NetD30_1 Pin=J6-7
+Added Pin To Net: NetName=NetD30_2 Pin=J6-8
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIRS485

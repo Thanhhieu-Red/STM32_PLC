@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetD19_2 Pin=J5-1
+Removed Pin From Net: NetName=NetD22_2 Pin=J5-2
+Removed Pin From Net: NetName=NetD24_2 Pin=J5-3
+Removed Pin From Net: NetName=NetD27_2 Pin=J5-4
+Change Component Footprint: Designator=J5 Old Footprint=2.5mm pitch New Footprint=*691382040004
+Change Component Comment : Designator=J5 Old Comment=2.5mm pitch New Comment=691382040004
+Change component parameters: Designator = "J5"; Footprint = "*691382040004"; UniqueID = "\KLIAULEY\RFAHWHVA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "691382040004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691382040004/Wurth%20Electronics%20Inc/view-part/1195361/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD27_2 Pin=J5-1
+Added Pin To Net: NetName=NetD24_2 Pin=J5-2
+Added Pin To Net: NetName=NetD22_2 Pin=J5-3
+Added Pin To Net: NetName=NetD19_2 Pin=J5-4
+Added Room: Name=BV100011_ControlTopLevel
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlIRS485
