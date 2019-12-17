@@ -1,0 +1,76 @@
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C48
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C50
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C52
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C53
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C54
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C55
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C56
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C56
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C57
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C58
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C58
+Removed Member From Class: ClassName=U_BV100011_ControlDI Member=D30
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=D30
+Removed Member From Class: ClassName=U_BV100011_ControlDI Member=R100
+Removed Member From Class: ClassName=U_BV100011_ControlDI Member=R103
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R103
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R104
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R105
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R105
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R106
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R106
+Added Component: Designator=IC5(SOP50P490X110-11N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm25011.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM25011MY/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM25011MY/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM25011MY%2FNOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9216709"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/9216709"; VariantName = "[No Variations]"
+Added Component: Designator=L1(WE-TPC_5818/582892)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "744052100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6690227"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/6690227"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=IC5-1
+Added Pin To Net: NetName=NetIC5_2 Pin=IC5-2
+Added Pin To Net: NetName=NetC54_2 Pin=IC5-4
+Added Pin To Net: NetName=GND Pin=IC5-5
+Added Pin To Net: NetName=NetIC5_6 Pin=IC5-6
+Added Pin To Net: NetName=NetIC5_7 Pin=IC5-7
+Added Pin To Net: NetName=GND Pin=IC5-8
+Added Pin To Net: NetName=NetC48_2 Pin=IC5-9
+Added Pin To Net: NetName=NetC48_1 Pin=IC5-10
+Added Pin To Net: NetName=GND Pin=IC5-11
+Added Pin To Net: NetName=NetC48_2 Pin=L1-1
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C24 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C25 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C26 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C27 EEH-AZF1H101
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C28 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C29 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C30 4.7nF Y1 4kV
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C48 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C49 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C50 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C51 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI Member=Component D5 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component D29 STTH4R02UY
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D31 CDSOT23-SM712
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component IC5 LM25011MY_NOPB
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component L1 10uH 1.1A
+Added Member To Class: ClassName=U_BV100011_ControlDI Member=Component R23 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI Member=Component R24 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R25 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R26 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R99 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R100 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R101 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R102 Res3

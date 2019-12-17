@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\PROJECT\fh_universalslave_pcb\BV100011_UniversalSlave.PcbDoc
 Date     : 12/17/2019
-Time     : 7:27:28 AM
+Time     : 11:16:54 PM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
@@ -414,7 +414,6 @@ Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad D31-2(6587.402mil,1819.37mil) on Bottom Layer And Track (6492.913mil,1780.984mil)(6607.087mil,1780.984mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.842mil]
    Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad D31-3(6550mil,1740.63mil) on Bottom Layer And Track (6492.913mil,1779.016mil)(6607.087mil,1779.016mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.842mil]
    Violation between Silk To Solder Mask Clearance Constraint: (9.337mil < 10mil) Between Pad Free-17(4175mil,2780mil) on Multi-Layer And Text "D10" (4235mil,2710mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.337mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad Free-28(5865mil,1505mil) on Multi-Layer And Text "J6" (5843.15mil,1570mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
    Violation between Silk To Solder Mask Clearance Constraint: (9.823mil < 10mil) Between Pad IC1-1(4457.48mil,2673.78mil) on Top Layer And Track (4399.528mil,2716.969mil)(4740.472mil,2716.969mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.823mil]
    Violation between Silk To Solder Mask Clearance Constraint: (9.823mil < 10mil) Between Pad IC1-1(4457.48mil,2673.78mil) on Top Layer And Track (4435.158mil,2644.331mil)(4435.158mil,2703.189mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.823mil]
    Violation between Silk To Solder Mask Clearance Constraint: (9.823mil < 10mil) Between Pad IC1-10(4682.52mil,2673.78mil) on Top Layer And Track (4399.528mil,2716.969mil)(4740.472mil,2716.969mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.823mil]
@@ -928,7 +927,7 @@ Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (9.705mil < 10mil) Between Pad U9-5(2252.559mil,3255mil) on Bottom Layer And Track (2271.26mil,3231.575mil)(2428.74mil,3231.575mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.705mil]
    Violation between Silk To Solder Mask Clearance Constraint: (5.768mil < 10mil) Between Pad U9-8(2252.559mil,3405mil) on Bottom Layer And Track (2271.26mil,3424.488mil)(2271.26mil,3428.425mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.768mil]
    Violation between Silk To Solder Mask Clearance Constraint: (9.705mil < 10mil) Between Pad U9-8(2252.559mil,3405mil) on Bottom Layer And Track (2271.26mil,3428.425mil)(2428.74mil,3428.425mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.705mil]
-Rule Violations :604
+Rule Violations :603
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (8.147mil < 10mil) Between Text "C10" (3995mil,3295mil) on Bottom Overlay And Text "C11" (4050mil,3295mil) on Bottom Overlay Silk Text to Silk Clearance [8.147mil]
@@ -946,6 +945,7 @@ Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (9.857mil < 10mil) Between Text "J3" (2333.425mil,1385mil) on Top Overlay And Track (2329.724mil,960mil)(2329.724mil,1375mil) on Top Overlay Silk Text to Silk Clearance [9.857mil]
    Violation between Silk To Silk Clearance Constraint: (4.707mil < 10mil) Between Text "J4" (3375mil,1385mil) on Top Overlay And Track (3371.575mil,1375mil)(4246.575mil,1375mil) on Top Overlay Silk Text to Silk Clearance [4.707mil]
    Violation between Silk To Silk Clearance Constraint: (9.65mil < 10mil) Between Text "J4" (3375mil,1385mil) on Top Overlay And Track (3371.575mil,960mil)(3371.575mil,1375mil) on Top Overlay Silk Text to Silk Clearance [9.65mil]
+   Violation between Silk To Silk Clearance Constraint: (4.415mil < 10mil) Between Text "J6" (5955mil,1385mil) on Top Overlay And Track (5837.874mil,1375mil)(6712.874mil,1375mil) on Top Overlay Silk Text to Silk Clearance [4.415mil]
    Violation between Silk To Silk Clearance Constraint: (9.329mil < 10mil) Between Text "J7" (6740mil,1365mil) on Top Overlay And Track (6737.559mil,1358.268mil)(6737.598mil,1358.307mil) on Top Overlay Silk Text to Silk Clearance [9.329mil]
    Violation between Silk To Silk Clearance Constraint: (3.666mil < 10mil) Between Text "J7" (6740mil,1365mil) on Top Overlay And Track (6737.598mil,1358.307mil)(7001.378mil,1358.307mil) on Top Overlay Silk Text to Silk Clearance [3.666mil]
    Violation between Silk To Silk Clearance Constraint: (9.329mil < 10mil) Between Text "J7" (6740mil,1365mil) on Top Overlay And Track (6737.598mil,960.669mil)(6737.598mil,1358.307mil) on Top Overlay Silk Text to Silk Clearance [9.329mil]
@@ -1021,7 +1021,7 @@ Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (6.914mil < 10mil) Between Text "U1" (2140mil,2450mil) on Bottom Overlay And Track (2078.74mil,2439.488mil)(2078.74mil,2443.425mil) on Bottom Overlay Silk Text to Silk Clearance [6.914mil]
    Violation between Silk To Silk Clearance Constraint: (9.972mil < 10mil) Between Text "U13" (3085mil,2450mil) on Bottom Overlay And Track (2831.26mil,2443.425mil)(2988.74mil,2443.425mil) on Bottom Overlay Silk Text to Silk Clearance [9.972mil]
    Violation between Silk To Silk Clearance Constraint: (9.972mil < 10mil) Between Text "U13" (3085mil,2450mil) on Bottom Overlay And Track (2988.74mil,2439.488mil)(2988.74mil,2443.425mil) on Bottom Overlay Silk Text to Silk Clearance [9.972mil]
-Rule Violations :90
+Rule Violations :91
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -1032,4 +1032,4 @@ Rule Violations :0
 
 Violations Detected : 975
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:06
