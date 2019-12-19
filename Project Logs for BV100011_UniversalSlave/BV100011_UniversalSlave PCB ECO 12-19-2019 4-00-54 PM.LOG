@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=VIN Pin=J7-2
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C48
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C50
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C52
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C53
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C54
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C55
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C56
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C56
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C57
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=C58
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C58
+Removed Member From Class: ClassName=U_BV100011_ControlDI Member=D30
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=IC6
+Removed Member From Class: ClassName=U_BV100011_ControlDI Member=R100
+Removed Member From Class: ClassName=U_BV100011_ControlDI Member=R103
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R103
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R104
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R105
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R105
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=R106
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R106
+Change Component Designator: OldDesignator=D29 NewDesignator=D30
+Change Component Designator: OldDesignator=D30 NewDesignator=D31
+Change Component Designator: OldDesignator=D31 NewDesignator=D32
+Change Component Designator: OldDesignator=D32 NewDesignator=D33
+Added Component: Designator=D29(DIOM5336X244N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/14bb/0900766b814bbf92.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.44mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HY Electronic Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SS54B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9179228P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/9179228P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=D29-1
+Change Net Name : Old Net Name=NetD30_1 New Net Name=NetD31_1
+Change Net Name : Old Net Name=NetD30_2 New Net Name=NetD31_2
+Change Net Name : Old Net Name=NetD31_1 New Net Name=NetD32_1
+Change Net Name : Old Net Name=NetD31_2 New Net Name=NetD32_2
+Change Net Name : Old Net Name=NetD32_1 New Net Name=NetD33_1
+Change Net Name : Old Net Name=NetD32_2 New Net Name=NetD33_2
+Added Pin To Net: NetName=NetD29_2 Pin=D29-2
+Added Pin To Net: NetName=NetD29_2 Pin=J7-2
+Added Net: Name=NetD29_2
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C24 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C25 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C26 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C27 EEH-AZF1H101
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C28 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C29 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component C30 4.7nF Y1 4kV
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C48 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C49 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C50 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C51 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI Member=Component D5 SM15T33CA
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component D29 SS54B
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D31 CDSOT23-SM712
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D33 CDSOT23-SM712
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component IC5 LM25011MY_NOPB
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component IC6 MAX14783EASA+
+Added Member To Class: ClassName=U_BV100011_ControlDI Member=Component R23 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI Member=Component R24 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R25 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDO Member=Component R26 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R99 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R100 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R101 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R102 Res3
+Added Room: Name=BV100011_ControlTopLevel
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlPower
+Added Room: Name=U_BV100011_ControlRS485

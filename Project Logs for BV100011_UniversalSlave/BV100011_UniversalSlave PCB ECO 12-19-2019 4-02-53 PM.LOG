@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VIN Pin=D29-1
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=D33
+Change Component Designator: OldDesignator=D30 NewDesignator=D29
+Added Component: Designator=D30(DIOM5336X244N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/14bb/0900766b814bbf92.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.44mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HY Electronic Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SS54B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9179228P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/9179228P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=D30-1
+Added Pin To Net: NetName=NetD30_2 Pin=D30-2
+Added Pin To Net: NetName=NetD30_2 Pin=J7-2
+Added Net: Name=NetD30_2
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component D29 STTH4R02UY
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component D30 SS54B
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D31 CDSOT23-SM712
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D32 CDSOT23-SM712
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component J7 691382040002
+Added Room: Name=U_BV100011_ControlPower
+Added Room: Name=U_BV100011_ControlRS485

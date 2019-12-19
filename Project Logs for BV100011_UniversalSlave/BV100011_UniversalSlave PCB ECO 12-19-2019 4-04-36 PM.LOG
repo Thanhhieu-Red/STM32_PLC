@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=D31
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=D31
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component D29 SS54B
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component D30 STTH4R02UY
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D31 CDSOT23-SM712
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D32 CDSOT23-SM712
