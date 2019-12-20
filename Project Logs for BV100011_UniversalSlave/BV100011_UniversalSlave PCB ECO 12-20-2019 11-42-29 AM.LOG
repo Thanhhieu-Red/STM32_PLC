@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=C58-1
+Removed Pin From Net: NetName=GND Pin=C59-1
+Removed Pin From Net: NetName=GND Pin=C60-1
+Removed Pin From Net: NetName=GND Pin=C61-1
+Removed Pin From Net: NetName=GND Pin=C62-1
+Removed Pin From Net: NetName=GND Pin=C63-1
+Removed Pin From Net: NetName=GND Pin=D31-2
+Removed Pin From Net: NetName=GND Pin=LED20-1
+Removed Pin From Net: NetName=GND Pin=R106-1
+Removed Pin From Net: NetName=GND Pin=U29-2
+Added Pin To Net: NetName=GND0 Pin=C58-1
+Added Pin To Net: NetName=GND0 Pin=C59-1
+Added Pin To Net: NetName=GND0 Pin=C60-1
+Added Pin To Net: NetName=GND0 Pin=C61-1
+Added Pin To Net: NetName=GND0 Pin=C62-1
+Added Pin To Net: NetName=GND0 Pin=C63-1
+Added Pin To Net: NetName=GND0 Pin=D31-2
+Added Pin To Net: NetName=GND0 Pin=LED20-1
+Added Pin To Net: NetName=GND0 Pin=R106-1
+Added Pin To Net: NetName=GND0 Pin=U29-2
+Added Room: Name=BV100011_ControlTopLevel
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlPower
+Added Room: Name=U_BV100011_ControlRS485
