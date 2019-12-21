@@ -1,0 +1,32 @@
+Added Component: Designator=P5(*JST_S2B-PH-SM4-TB(LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB _LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB%20%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/104386/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P6(*JST_S2B-PH-SM4-TB(LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB _LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB%20%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/104386/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=+5V_ISO Pin=P6-1
+Added Pin To Net: NetName=GND0 Pin=P6-2
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component P5 S2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component P6 S2B-PH-SM4-TB(LF)(SN)
+Added Room: Name=BV100011_ControlTopLevel
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlPower
+Added Room: Name=U_BV100011_ControlRS485
