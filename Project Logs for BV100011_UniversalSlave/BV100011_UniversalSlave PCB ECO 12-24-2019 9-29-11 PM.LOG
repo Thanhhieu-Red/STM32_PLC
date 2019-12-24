@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND0 Pin=J2-68
+Removed Pin From Net: NetName=GND0 Pin=J2-71
+Removed Pin From Net: NetName=GND Pin=P5-P1
+Removed Pin From Net: NetName=GND Pin=P5-P2
+Removed Pin From Net: NetName=GND0 Pin=P6-P1
+Removed Pin From Net: NetName=GND0 Pin=P6-P2
+Change Component Description : Designator=J1 Old Description= New Description=1881503
+Change Component Description : Designator=J3 Old Description= New Description=1881503
+Change Component Description : Designator=J4 Old Description= New Description=1881503
+Change Component Description : Designator=J6 Old Description= New Description=1881503
+Added Room: Name=BV100011_ControlTopLevel
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlPower
+Added Room: Name=U_BV100011_ControlRS485
