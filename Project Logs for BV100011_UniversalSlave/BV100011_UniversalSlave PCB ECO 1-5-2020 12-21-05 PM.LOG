@@ -1,0 +1,119 @@
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C63
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C65
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C67
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C68
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C69
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C70
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C72
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C72
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C73
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C74
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C74
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C75
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D38
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D39
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D40
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D41
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D42
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=IC8
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=J8
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=LED28
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R123
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R124
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R125
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R126
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R127
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R128
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R129
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R130
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R131
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R132
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R133
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R134
+Added Component: Designator=IC5(SOP64P600X175-20N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/SI8380P-IU.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SI8380P-IU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "634-SI8380P-IU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=634-SI8380P-IU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DI_IN8 Pin=IC5-1
+Added Pin To Net: NetName=DI_IN9 Pin=IC5-2
+Added Pin To Net: NetName=DI_IN10 Pin=IC5-3
+Added Pin To Net: NetName=DI_IN11 Pin=IC5-4
+Added Pin To Net: NetName=GND Pin=IC5-5
+Added Pin To Net: NetName=GND Pin=IC5-6
+Added Pin To Net: NetName=DI_IN12 Pin=IC5-7
+Added Pin To Net: NetName=DI_IN13 Pin=IC5-8
+Added Pin To Net: NetName=DI_IN14 Pin=IC5-9
+Added Pin To Net: NetName=DI_IN15 Pin=IC5-10
+Added Pin To Net: NetName=uC_DI15 Pin=IC5-11
+Added Pin To Net: NetName=uC_DI14 Pin=IC5-12
+Added Pin To Net: NetName=uC_DI13 Pin=IC5-13
+Added Pin To Net: NetName=uC_DI12 Pin=IC5-14
+Added Pin To Net: NetName=GND0 Pin=IC5-15
+Added Pin To Net: NetName=+3.3V_ISO Pin=IC5-16
+Added Pin To Net: NetName=uC_DI11 Pin=IC5-17
+Added Pin To Net: NetName=uC_DI10 Pin=IC5-18
+Added Pin To Net: NetName=uC_DI9 Pin=IC5-19
+Added Pin To Net: NetName=uC_DI8 Pin=IC5-20
+Added Pin To Net: NetName=DI8 Pin=J3-1
+Added Pin To Net: NetName=DI9 Pin=J3-2
+Added Pin To Net: NetName=DI10 Pin=J3-3
+Added Pin To Net: NetName=DI11 Pin=J3-4
+Added Pin To Net: NetName=DI12 Pin=J3-5
+Added Pin To Net: NetName=DI13 Pin=J3-6
+Added Pin To Net: NetName=DI14 Pin=J3-7
+Added Pin To Net: NetName=DI15 Pin=J3-8
+Added Pin To Net: NetName=uC_DI8 Pin=R102-2
+Added Pin To Net: NetName=uC_DI9 Pin=R103-2
+Added Pin To Net: NetName=uC_DI10 Pin=R104-2
+Added Pin To Net: NetName=uC_DI11 Pin=R105-2
+Added Pin To Net: NetName=uC_DI12 Pin=R115-2
+Added Pin To Net: NetName=uC_DI13 Pin=R116-2
+Added Pin To Net: NetName=uC_DI14 Pin=R117-2
+Added Pin To Net: NetName=uC_DI15 Pin=R118-2
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C51 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C52 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C53 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C54 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C55 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C56 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C57 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C58 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C59 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C60 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C61 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C62 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C63 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C64 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C65 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C66 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D30 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D31 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D32 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D33 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D34 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component IC5 SI8380P-IU
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component IC6 LM25011MY_NOPB
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component IC7 MAX14783EASA+
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J3 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J5 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J6 691382040004
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J7 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component LED20 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component P1 Header 3
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component P5 S2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R99 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R100 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R101 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R102 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R103 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R104 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R105 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R106 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R107 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R108 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R109 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R110 Res3

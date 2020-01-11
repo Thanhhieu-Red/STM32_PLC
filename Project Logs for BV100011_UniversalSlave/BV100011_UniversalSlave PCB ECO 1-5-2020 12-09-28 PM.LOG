@@ -1,0 +1,74 @@
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C63
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C65
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C67
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C68
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C69
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C70
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C72
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C72
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C73
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C74
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C74
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C75
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D38
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D39
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D40
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D41
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D42
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=IC8
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=J8
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=LED28
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R123
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R124
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R125
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R126
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R127
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R128
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R129
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R130
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R131
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R132
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R133
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R134
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C51 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C52 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C53 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C54 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C55 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C56 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C57 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C58 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C59 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C60 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C61 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C62 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C63 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C64 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C65 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C66 Cap Semi
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D30 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D31 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D32 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D33 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D34 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component IC6 LM25011MY_NOPB
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component IC7 MAX14783EASA+
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J3 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J5 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J6 691382040004
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J7 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component LED20 KP-2012SGC
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component P1 Header 3
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component P5 S2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R99 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R100 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R101 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R102 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R103 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R104 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R105 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R106 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R107 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R108 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R109 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R110 Res3
