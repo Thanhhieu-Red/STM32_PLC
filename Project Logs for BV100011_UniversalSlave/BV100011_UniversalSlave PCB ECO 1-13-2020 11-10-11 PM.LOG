@@ -1,0 +1,45 @@
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R98 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R99 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R100 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R101 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R102 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R103 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R104 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R105 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R106 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R107 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R108 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R109 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R110 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R111 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R112 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R113 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R114 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R115 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R116 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R117 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R118 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R119 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R120 Res3
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R121 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R122 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R123 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R124 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R125 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R126 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R127 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R128 Res3
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R129 Res3
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R130 Res3
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R131 Res3
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R132 Res3
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R133 Res3
+Added Room: Name=BV100011_ControlTopLevel
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDI_8-15
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlPower
+Added Room: Name=U_BV100011_ControlRS485

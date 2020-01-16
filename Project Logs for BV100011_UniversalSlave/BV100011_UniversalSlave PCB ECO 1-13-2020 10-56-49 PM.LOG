@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=GND Pin=C75-1
+Removed Pin From Net: NetName=+5V Pin=C75-2
+Removed Pin From Net: NetName=GND Pin=D41-3
+Removed Pin From Net: NetName=GND Pin=D42-3
+Removed Pin From Net: NetName=+5V Pin=IC8-1
+Removed Pin From Net: NetName=GND Pin=IC8-4
+Removed Pin From Net: NetName=+5V_ISO Pin=J2-59
+Removed Pin From Net: NetName=+5V_ISO Pin=J2-61
+Removed Pin From Net: NetName=NetJ2_53 Pin=U30-4
+Removed Pin From Net: NetName=NetJ2_55 Pin=U30-5
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=C75
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=D41
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=D42
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=IC8
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R98
+Change Component Footprint: Designator=J7 Old Footprint=2.5mm pitch New Footprint=SHDR3W100P0X250_1X3_940X1010X810P
+Change Component Comment : Designator=J7 Old Comment=2.5mm pitch New Comment=1881451
+Change Component Comment : Designator=P2 Old Comment=LAN New Comment=EXT
+Change Component Comment : Designator=P3 Old Comment=LAN New Comment=EXT
+Change Component Designator: OldDesignator=R99 NewDesignator=R98
+Change Component Designator: OldDesignator=R100 NewDesignator=R99
+Change Component Designator: OldDesignator=R101 NewDesignator=R100
+Change Component Designator: OldDesignator=R102 NewDesignator=R101
+Change Component Designator: OldDesignator=R103 NewDesignator=R102
+Change Component Designator: OldDesignator=R104 NewDesignator=R103
+Change Component Designator: OldDesignator=R105 NewDesignator=R104
+Change Component Designator: OldDesignator=R106 NewDesignator=R105
+Change Component Designator: OldDesignator=R107 NewDesignator=R106
+Change Component Designator: OldDesignator=R108 NewDesignator=R107
+Change Component Designator: OldDesignator=R109 NewDesignator=R108
+Change Component Designator: OldDesignator=R110 NewDesignator=R109
+Change Component Designator: OldDesignator=R111 NewDesignator=R110
+Change Component Designator: OldDesignator=R112 NewDesignator=R111
+Change Component Designator: OldDesignator=R113 NewDesignator=R112
+Change Component Designator: OldDesignator=R114 NewDesignator=R113
+Change Component Designator: OldDesignator=R115 NewDesignator=R114
+Change Component Designator: OldDesignator=R116 NewDesignator=R115
+Change Component Designator: OldDesignator=R117 NewDesignator=R116
+Change Component Designator: OldDesignator=R118 NewDesignator=R117
+Change Component Designator: OldDesignator=R119 NewDesignator=R118
+Change Component Designator: OldDesignator=R120 NewDesignator=R119
+Change Component Designator: OldDesignator=R121 NewDesignator=R120
+Change Component Designator: OldDesignator=R122 NewDesignator=R121
+Change Component Designator: OldDesignator=R123 NewDesignator=R122
+Change Component Designator: OldDesignator=R124 NewDesignator=R123
+Change Component Designator: OldDesignator=R125 NewDesignator=R124
+Change Component Designator: OldDesignator=R126 NewDesignator=R125
+Change Component Designator: OldDesignator=R127 NewDesignator=R126
+Change Component Designator: OldDesignator=R128 NewDesignator=R127
+Change Component Designator: OldDesignator=R129 NewDesignator=R128
+Change Component Designator: OldDesignator=R130 NewDesignator=R129
+Change Component Designator: OldDesignator=R131 NewDesignator=R130
+Change Component Designator: OldDesignator=R132 NewDesignator=R131
+Change Component Designator: OldDesignator=R133 NewDesignator=R132
+Change Component Designator: OldDesignator=R134 NewDesignator=R133
+Change component parameters: Designator = "J7"; Footprint = "SHDR3W100P0X250_1X3_940X1010X810P"; UniqueID = "\UJTOTZCM\DZXBSRGW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/1881451.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1881451"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "651-1881451"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1881451"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "3579543"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/3579543"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=NetD40_1 Pin=R97-1
+Added Pin To Net: NetName=NetJ2_53 Pin=U30-2
+Added Pin To Net: NetName=NetJ2_55 Pin=U30-4
+Change Net Name : Old Net Name=GPIO0 New Net Name=GPIO1
+Change Net Name : Old Net Name=GPIO1 New Net Name=GPIO0
+Change Net Name : Old Net Name=NetR127_2 New Net Name=NetR126_2
+Change Net Name : Old Net Name=NetR128_1 New Net Name=NetR127_1
+Change Net Name : Old Net Name=NetR132_2 New Net Name=NetR131_2
+Change Net Name : Old Net Name=NetR133_2 New Net Name=NetR132_2
+Added Pin To Net: NetName=GPIO2 Pin=J2-49
+Added Pin To Net: NetName=GPIO2 Pin=P3-8
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO3 Pin=J2-51
+Added Pin To Net: NetName=GPIO3 Pin=P3-6
+Added Net: Name=GPIO3
+Added Pin To Net: NetName=GPIO4 Pin=J2-59
+Added Pin To Net: NetName=GPIO4 Pin=P3-5
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO5 Pin=J2-61
+Added Pin To Net: NetName=GPIO5 Pin=P3-3
+Added Net: Name=GPIO5
+Added Room: Name=BV100011_ControlTopLevel
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDI_8-15
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlPower
+Added Room: Name=U_BV100011_ControlRS485

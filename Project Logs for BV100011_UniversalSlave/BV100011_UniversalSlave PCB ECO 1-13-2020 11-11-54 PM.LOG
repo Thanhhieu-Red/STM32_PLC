@@ -1,0 +1,14 @@
+Added Component: Designator=J7(SHDR3W100P0X250_1X3_940X1010X810P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/1881451.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1881451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1881451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1881451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "3579543"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/3579543"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD40_1 Pin=J7-1
+Added Pin To Net: NetName=NetD40_2 Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J7 1881451
