@@ -1,0 +1,31 @@
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=D33
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=D35
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=D39
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=D40
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=D40
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D41
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=D41
+Change Net Name : Old Net Name=VCC_iso_AO New Net Name=NetC43_2
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D19 BAT54C
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D20 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D21 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D22 SMBJ33A
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D23 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D24 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D25 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D26 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D27 SMBJ33A
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D28 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D29 1N4007
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component D30 SS54B
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D31 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D32 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D33 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D34 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D35 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D36 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D37 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D38 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component D39 STTH4R02UY
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component D40 PMEG3050EP
+Added Room: Name=U_BV100011_ControlAO
