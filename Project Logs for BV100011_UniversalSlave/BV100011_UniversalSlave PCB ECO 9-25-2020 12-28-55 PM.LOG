@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=C76-2
+Removed Pin From Net: NetName=GND Pin=C77-2
+Removed Pin From Net: NetName=GND Pin=C78-2
+Removed Pin From Net: NetName=GND Pin=C79-2
+Removed Pin From Net: NetName=GND Pin=C81-2
+Removed Pin From Net: NetName=GND Pin=C82-2
+Removed Pin From Net: NetName=GND Pin=C85-2
+Removed Pin From Net: NetName=GND Pin=C86-2
+Removed Pin From Net: NetName=GND Pin=C87-2
+Removed Pin From Net: NetName=GND Pin=C88-2
+Removed Pin From Net: NetName=GND Pin=C89-2
+Removed Pin From Net: NetName=GND Pin=C90-2
+Removed Pin From Net: NetName=GND Pin=C91-2
+Removed Pin From Net: NetName=GND Pin=C92-2
+Removed Pin From Net: NetName=GND Pin=C93-2
+Removed Pin From Net: NetName=GND Pin=C94-2
+Removed Pin From Net: NetName=GND Pin=C95-2
+Removed Pin From Net: NetName=GND Pin=C96-2
+Removed Pin From Net: NetName=GND Pin=C97-2
+Removed Pin From Net: NetName=GND Pin=LD1-2
+Removed Pin From Net: NetName=GND Pin=R142-2
+Removed Pin From Net: NetName=GND Pin=SB2-2
+Removed Pin From Net: NetName=GND Pin=SB15-2
+Removed Pin From Net: NetName=GND Pin=SB17-2
+Removed Pin From Net: NetName=GND Pin=SB18-2
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=J6
+Added Pin To Net: NetName=GND0 Pin=C76-2
+Added Pin To Net: NetName=GND0 Pin=C77-2
+Added Pin To Net: NetName=GND0 Pin=C78-2
+Added Pin To Net: NetName=GND0 Pin=C79-2
+Added Pin To Net: NetName=GND0 Pin=C81-2
+Added Pin To Net: NetName=GND0 Pin=C82-2
+Added Pin To Net: NetName=GND0 Pin=C85-2
+Added Pin To Net: NetName=GND0 Pin=C86-2
+Added Pin To Net: NetName=GND0 Pin=C87-2
+Added Pin To Net: NetName=GND0 Pin=C88-2
+Added Pin To Net: NetName=GND0 Pin=C89-2
+Added Pin To Net: NetName=GND0 Pin=C90-2
+Added Pin To Net: NetName=GND0 Pin=C91-2
+Added Pin To Net: NetName=GND0 Pin=C92-2
+Added Pin To Net: NetName=GND0 Pin=C93-2
+Added Pin To Net: NetName=GND0 Pin=C94-2
+Added Pin To Net: NetName=GND0 Pin=C95-2
+Added Pin To Net: NetName=GND0 Pin=C96-2
+Added Pin To Net: NetName=GND0 Pin=C97-2
+Added Pin To Net: NetName=GND0 Pin=LD1-2
+Added Pin To Net: NetName=GND0 Pin=R142-2
+Added Pin To Net: NetName=GND0 Pin=SB2-2
+Added Pin To Net: NetName=GND0 Pin=SB15-2
+Added Pin To Net: NetName=GND0 Pin=SB17-2
+Added Pin To Net: NetName=GND0 Pin=SB18-2
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J2 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J3 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J6 1881451
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component J7 691382040002

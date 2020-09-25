@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=VDD Pin=B1-2
+Removed Pin From Net: NetName=VDD Pin=B1-3
+Removed Pin From Net: NetName=PB13 Pin=JP1-2
+Removed Pin From Net: NetName=VDD Pin=R138-1
+Removed Pin From Net: NetName=GND Pin=R141-2
+Removed Pin From Net: NetName=PD8 Pin=SB4-2
+Removed Pin From Net: NetName=PD9 Pin=SB5-2
+Removed Pin From Net: NetName=PC13 Pin=SB7-1
+Removed Pin From Net: NetName=PH0 Pin=SB8-2
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=B2
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=C97
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=JP1
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R140
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R141
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R142
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=SB18
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=SB19
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=SB20
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=SB21
+Change Component Designator: OldDesignator=B2 NewDesignator=B1
+Change Component Designator: OldDesignator=C76 NewDesignator=C75
+Change Component Designator: OldDesignator=C77 NewDesignator=C76
+Change Component Designator: OldDesignator=C78 NewDesignator=C77
+Change Component Designator: OldDesignator=C79 NewDesignator=C78
+Change Component Designator: OldDesignator=C80 NewDesignator=C79
+Change Component Designator: OldDesignator=C81 NewDesignator=C80
+Change Component Designator: OldDesignator=C82 NewDesignator=C81
+Change Component Designator: OldDesignator=C83 NewDesignator=C82
+Change Component Designator: OldDesignator=C84 NewDesignator=C83
+Change Component Designator: OldDesignator=C85 NewDesignator=C84
+Change Component Designator: OldDesignator=C86 NewDesignator=C85
+Change Component Designator: OldDesignator=C87 NewDesignator=C86
+Change Component Designator: OldDesignator=C88 NewDesignator=C87
+Change Component Designator: OldDesignator=C89 NewDesignator=C88
+Change Component Designator: OldDesignator=C90 NewDesignator=C89
+Change Component Designator: OldDesignator=C91 NewDesignator=C90
+Change Component Designator: OldDesignator=C92 NewDesignator=C91
+Change Component Designator: OldDesignator=C93 NewDesignator=C92
+Change Component Designator: OldDesignator=C94 NewDesignator=C93
+Change Component Designator: OldDesignator=C95 NewDesignator=C94
+Change Component Designator: OldDesignator=C96 NewDesignator=C95
+Change Component Designator: OldDesignator=C97 NewDesignator=C96
+Change Component Designator: OldDesignator=R139 NewDesignator=R137
+Change Component Designator: OldDesignator=R140 NewDesignator=R138
+Change Component Designator: OldDesignator=R142 NewDesignator=R139
+Change Component Designator: OldDesignator=SB6 NewDesignator=SB4
+Change Component Designator: OldDesignator=SB9 NewDesignator=SB5
+Change Component Designator: OldDesignator=SB10 NewDesignator=SB6
+Change Component Designator: OldDesignator=SB11 NewDesignator=SB7
+Change Component Designator: OldDesignator=SB12 NewDesignator=SB8
+Change Component Designator: OldDesignator=SB13 NewDesignator=SB9
+Change Component Designator: OldDesignator=SB14 NewDesignator=SB10
+Change Component Designator: OldDesignator=SB15 NewDesignator=SB11
+Change Component Designator: OldDesignator=SB16 NewDesignator=SB12
+Change Component Designator: OldDesignator=SB17 NewDesignator=SB13
+Change Component Designator: OldDesignator=SB18 NewDesignator=SB14
+Change Component Designator: OldDesignator=SB19 NewDesignator=SB15
+Change Component Designator: OldDesignator=SB20 NewDesignator=SB16
+Change Component Designator: OldDesignator=SB21 NewDesignator=SB17
+Change Net Name : Old Net Name=NetC76_1 New Net Name=NetC75_1
+Change Net Name : Old Net Name=NetC77_1 New Net Name=NetC76_1
+Change Net Name : Old Net Name=NetC78_1 New Net Name=NetC77_1
+Change Net Name : Old Net Name=NetC79_1 New Net Name=NetC78_1
+Change Net Name : Old Net Name=NetC81_1 New Net Name=NetC80_1
+Change Net Name : Old Net Name=NetC82_1 New Net Name=NetC81_1
+Change Net Name : Old Net Name=NetR142_1 New Net Name=NetR139_1
+Change Net Name : Old Net Name=NetSB16_1 New Net Name=NetSB12_1
+Change Net Name : Old Net Name=NetSB18_1 New Net Name=NetSB14_1
+Change Net Name : Old Net Name=NetSB19_2 New Net Name=NetSB15_2

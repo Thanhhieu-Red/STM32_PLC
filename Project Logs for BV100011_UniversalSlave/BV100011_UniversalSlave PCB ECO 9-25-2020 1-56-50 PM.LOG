@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=GND Pin=B1-1
+Removed Pin From Net: NetName=GND Pin=B1-4
+Removed Pin From Net: NetName=GND Pin=C79-1
+Removed Pin From Net: NetName=VDD Pin=C84-1
+Removed Pin From Net: NetName=VDD Pin=C85-1
+Removed Pin From Net: NetName=VDD Pin=C86-1
+Removed Pin From Net: NetName=VDD Pin=C87-1
+Removed Pin From Net: NetName=VDD Pin=C88-1
+Removed Pin From Net: NetName=VDD Pin=C89-1
+Removed Pin From Net: NetName=VDD Pin=C90-1
+Removed Pin From Net: NetName=VDD Pin=C91-1
+Removed Pin From Net: NetName=VDD Pin=C92-1
+Removed Pin From Net: NetName=VDD Pin=C93-1
+Removed Pin From Net: NetName=VDD Pin=C94-1
+Removed Pin From Net: NetName=VDD Pin=C95-1
+Removed Pin From Net: NetName=VDD Pin=C96-1
+Removed Pin From Net: NetName=VDD Pin=L3-1
+Removed Pin From Net: NetName=VDD Pin=SB9-2
+Removed Pin From Net: NetName=VDD Pin=SB12-2
+Removed Pin From Net: NetName=VDD Pin=SB15-1
+Removed Pin From Net: NetName=GND Pin=SB17-1
+Added Pin To Net: NetName=GND0 Pin=B1-1
+Added Pin To Net: NetName=GND0 Pin=B1-4
+Added Pin To Net: NetName=GND0 Pin=C79-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C84-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C85-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C86-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C87-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C88-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C89-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C90-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C91-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C92-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C93-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C94-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C95-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C96-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=L3-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=SB9-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=SB12-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=SB15-1
+Added Pin To Net: NetName=GND0 Pin=SB17-1
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component B1 TD-0341 [RESET/Black]
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C75 2pF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C76 2pF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C79 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C82 1uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C84 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C87 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C89 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C92 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C95 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C96 4.7uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R137 0
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R138 0
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R139 10K
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB4 Closed
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB5 Open
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB6 Open
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB7 Closed
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB8 Circuit Breaker
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB11 Circuit Breaker
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB13 Circuit Breaker
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB14 Closed
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB15 Circuit Breaker
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB16 Circuit Breaker
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component SB17 Closed
