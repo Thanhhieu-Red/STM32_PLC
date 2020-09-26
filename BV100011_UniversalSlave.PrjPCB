@@ -411,6 +411,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFYTJWIC
 
+[Document23]
+DocumentPath=BV100011_MCU144.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=BV100011_UniversalSlave 8-31-2019 10-47-14 PM.WAS
 DItemRevisionGUID=
