@@ -1,0 +1,92 @@
+Added Pin To Net: NetName=PE7 Pin=IC1-11
+Added Pin To Net: NetName=PE6 Pin=IC1-12
+Added Pin To Net: NetName=PE5 Pin=IC1-13
+Added Pin To Net: NetName=PE4 Pin=IC1-14
+Added Pin To Net: NetName=PE3 Pin=IC1-17
+Added Pin To Net: NetName=PE2 Pin=IC1-18
+Added Pin To Net: NetName=PE1 Pin=IC1-19
+Added Pin To Net: NetName=PE0 Pin=IC1-20
+Added Pin To Net: NetName=PE15 Pin=IC5-11
+Added Pin To Net: NetName=PE14 Pin=IC5-12
+Added Pin To Net: NetName=PE13 Pin=IC5-13
+Added Pin To Net: NetName=PE12 Pin=IC5-14
+Added Pin To Net: NetName=PE11 Pin=IC5-17
+Added Pin To Net: NetName=PE10 Pin=IC5-18
+Added Pin To Net: NetName=PE9 Pin=IC5-19
+Added Pin To Net: NetName=PE8 Pin=IC5-20
+Added Pin To Net: NetName=PF11 Pin=LED13-1
+Added Pin To Net: NetName=PF10 Pin=LED14-1
+Added Pin To Net: NetName=PF9 Pin=LED15-1
+Added Pin To Net: NetName=PE0 Pin=R4-2
+Added Pin To Net: NetName=PE1 Pin=R5-2
+Added Pin To Net: NetName=PE2 Pin=R6-2
+Added Pin To Net: NetName=PE3 Pin=R7-2
+Added Pin To Net: NetName=PE4 Pin=R17-2
+Added Pin To Net: NetName=PE5 Pin=R18-2
+Added Pin To Net: NetName=PE6 Pin=R19-2
+Added Pin To Net: NetName=PE7 Pin=R20-2
+Added Pin To Net: NetName=PF8 Pin=R31-1
+Added Pin To Net: NetName=PF10 Pin=R32-1
+Added Pin To Net: NetName=PF11 Pin=R33-1
+Added Pin To Net: NetName=PF0 Pin=R34-1
+Added Pin To Net: NetName=PF1 Pin=R35-1
+Added Pin To Net: NetName=PF2 Pin=R36-1
+Added Pin To Net: NetName=PF3 Pin=R37-1
+Added Pin To Net: NetName=PF4 Pin=R38-1
+Added Pin To Net: NetName=PF5 Pin=R39-1
+Added Pin To Net: NetName=PF6 Pin=R40-1
+Added Pin To Net: NetName=PF7 Pin=R41-1
+Added Pin To Net: NetName=PF9 Pin=R42-1
+Added Pin To Net: NetName=PF7 Pin=R46-1
+Added Pin To Net: NetName=PF6 Pin=R49-1
+Added Pin To Net: NetName=PF5 Pin=R50-1
+Added Pin To Net: NetName=PF4 Pin=R51-1
+Added Pin To Net: NetName=PF3 Pin=R52-1
+Added Pin To Net: NetName=PF2 Pin=R53-1
+Added Pin To Net: NetName=PF1 Pin=R54-1
+Added Pin To Net: NetName=PF0 Pin=R55-1
+Added Pin To Net: NetName=PF8 Pin=R56-1
+Added Pin To Net: NetName=PB12 Pin=R89-1
+Added Pin To Net: NetName=PB11 Pin=R90-1
+Added Pin To Net: NetName=PE8 Pin=R101-2
+Added Pin To Net: NetName=PE9 Pin=R102-2
+Added Pin To Net: NetName=PE10 Pin=R103-2
+Added Pin To Net: NetName=PE11 Pin=R104-2
+Added Pin To Net: NetName=PE12 Pin=R114-2
+Added Pin To Net: NetName=PE13 Pin=R115-2
+Added Pin To Net: NetName=PE14 Pin=R116-2
+Added Pin To Net: NetName=PE15 Pin=R117-2
+Added Pin To Net: NetName=PD4 Pin=R130-2
+Added Pin To Net: NetName=PA0 Pin=U3-1
+Added Pin To Net: NetName=PA0 Pin=U3-2
+Added Pin To Net: NetName=PA3 Pin=U3-6
+Added Pin To Net: NetName=PA3 Pin=U3-7
+Added Pin To Net: NetName=PA4 Pin=U9-1
+Added Pin To Net: NetName=PA4 Pin=U9-2
+Added Pin To Net: NetName=PA5 Pin=U9-6
+Added Pin To Net: NetName=PA5 Pin=U9-7
+Added Pin To Net: NetName=PA6 Pin=U15-1
+Added Pin To Net: NetName=PA6 Pin=U15-2
+Added Pin To Net: NetName=PB1 Pin=U15-6
+Added Pin To Net: NetName=PB1 Pin=U15-7
+Added Pin To Net: NetName=PC0 Pin=U21-1
+Added Pin To Net: NetName=PC0 Pin=U21-2
+Added Pin To Net: NetName=PC2 Pin=U21-6
+Added Pin To Net: NetName=PC2 Pin=U21-7
+Added Pin To Net: NetName=PB10 Pin=U25-2
+Added Pin To Net: NetName=PC3 Pin=U25-3
+Added Pin To Net: NetName=PB11 Pin=U25-6
+Added Pin To Net: NetName=PB12 Pin=U25-7
+Added Pin To Net: NetName=PD5 Pin=U30-2
+Added Pin To Net: NetName=PD6 Pin=U30-4
+Added Pin To Net: NetName=PD4 Pin=U30-6
+Added Room: Name=BV100011_ControlTopLevel
+Added Room: Name=U_BV100011_ControlAI
+Added Room: Name=U_BV100011_ControlAO
+Added Room: Name=U_BV100011_ControlConnector
+Added Room: Name=U_BV100011_ControlDI
+Added Room: Name=U_BV100011_ControlDI_8-15
+Added Room: Name=U_BV100011_ControlDO
+Added Room: Name=U_BV100011_ControlPower
+Added Room: Name=U_BV100011_ControlRS485
+Added Room: Name=U_BV100011_MCU144

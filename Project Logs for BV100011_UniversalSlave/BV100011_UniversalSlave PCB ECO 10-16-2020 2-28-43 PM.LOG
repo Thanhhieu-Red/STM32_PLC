@@ -1,0 +1,96 @@
+Added Component: Designator=CN1(PJS008-2003-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAMAICHI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "PJS008-2003-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "PJS008-2003-1"; VariantName = "[No Variations]"
+Added Component: Designator=R140(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "FARNELL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "RC0402FR-0747KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "9239430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R141(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "FARNELL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "RC0402FR-0747KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "9239430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R142(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "FARNELL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "RC0402FR-0747KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "9239430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R143(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "FARNELL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "RC0402FR-0747KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "9239430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R144(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "FARNELL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "RC0402FR-0747KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "9239430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R145(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fitted"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "[NA]"; VariantName = "[No Variations]"
+Added Component: Designator=R146(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "FARNELL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "2363467"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V_ISO Pin=CN1-4
+Added Pin To Net: NetName=GND0 Pin=CN1-6
+Added Pin To Net: NetName=GND0 Pin=CN1-9
+Added Pin To Net: NetName=GND0 Pin=CN1-11
+Added Pin To Net: NetName=GND0 Pin=CN1-12
+Added Pin To Net: NetName=GND0 Pin=CN1-13
+Added Pin To Net: NetName=GND0 Pin=CN1-14
+Added Pin To Net: NetName=+3.3V_ISO Pin=R140-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R141-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R142-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R143-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R144-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R145-2
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=R144-1
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN1_2 Pin=CN1-2
+Added Pin To Net: NetName=NetCN1_2 Pin=R140-1
+Added Net: Name=NetCN1_2
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Pin To Net: NetName=NetCN1_3 Pin=R142-1
+Added Net: Name=NetCN1_3
+Added Pin To Net: NetName=NetCN1_5 Pin=CN1-5
+Added Net: Name=NetCN1_5
+Added Pin To Net: NetName=NetCN1_7 Pin=CN1-7
+Added Pin To Net: NetName=NetCN1_7 Pin=R141-1
+Added Net: Name=NetCN1_7
+Added Pin To Net: NetName=NetCN1_8 Pin=CN1-8
+Added Pin To Net: NetName=NetCN1_8 Pin=R143-1
+Added Net: Name=NetCN1_8
+Added Pin To Net: NetName=NetCN1_10 Pin=CN1-10
+Added Pin To Net: NetName=NetCN1_10 Pin=R146-2
+Added Net: Name=NetCN1_10
+Added Pin To Net: NetName=NetR145_1 Pin=R145-1
+Added Pin To Net: NetName=NetR145_1 Pin=R146-1
+Added Net: Name=NetR145_1
+Added Class: Name=U_BV100011_SDCARD
