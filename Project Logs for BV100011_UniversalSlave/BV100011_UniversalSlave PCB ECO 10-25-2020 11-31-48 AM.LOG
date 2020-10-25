@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=PA2 Pin=R149-1
+Added Pin To Net: NetName=PA1 Pin=R152-1
+Added Pin To Net: NetName=PC4 Pin=R156-2
+Added Pin To Net: NetName=PC5 Pin=R157-2
+Added Pin To Net: NetName=PA7 Pin=R160-2
+Added Pin To Net: NetName=PA2 Pin=U31-12
+Added Pin To Net: NetName=PC1 Pin=U31-13
+Added Pin To Net: NetName=PA1 Pin=U31-14
+Added Pin To Net: NetName=NRST Pin=U31-15
+Added Pin To Net: NetName=PG11 Pin=U31-16
+Added Pin To Net: NetName=PG13 Pin=U31-17
+Added Pin To Net: NetName=PB13 Pin=U31-18
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C99 30pF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C102 10uF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C103 470pF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C104 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R158 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R160 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R161 10K
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R163 330
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R164 330

@@ -1,0 +1,121 @@
+Removed Pin From Net: NetName=GND Pin=C97-1
+Removed Pin From Net: NetName=GND Pin=C98-1
+Removed Pin From Net: NetName=GND Pin=C99-1
+Removed Pin From Net: NetName=GND Pin=C100-1
+Removed Pin From Net: NetName=GND Pin=C101-2
+Removed Pin From Net: NetName=GND Pin=C102-1
+Removed Pin From Net: NetName=GND Pin=C103-1
+Removed Pin From Net: NetName=GND Pin=C104-2
+Removed Pin From Net: NetName=GND Pin=C105-1
+Removed Pin From Net: NetName=GND Pin=CN2-10
+Removed Pin From Net: NetName=GND Pin=CN2-13
+Removed Pin From Net: NetName=GND Pin=CN2-14
+Removed Pin From Net: NetName=GND Pin=R158-2
+Removed Pin From Net: NetName=GND Pin=R160-1
+Removed Pin From Net: NetName=GND Pin=R161-1
+Removed Pin From Net: NetName=GND Pin=R162-1
+Removed Pin From Net: NetName=GND Pin=R163-1
+Removed Pin From Net: NetName=GND Pin=R165-1
+Removed Pin From Net: NetName=GND Pin=U31-25
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=C97
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=C98
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=C99
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=C100
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=C101
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C102
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C103
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C104
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C105
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=L4
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R147
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R148
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R149
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R150
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R151
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R152
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R153
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R154
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R155
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R156
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R157
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R158
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R159
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R160
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R161
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R162
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R163
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R164
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R165
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=U30
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=U31
+Added Pin To Net: NetName=GND0 Pin=C97-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C97-2
+Added Pin To Net: NetName=GND0 Pin=C98-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C98-2
+Added Pin To Net: NetName=GND0 Pin=C99-1
+Added Pin To Net: NetName=GND0 Pin=C100-1
+Added Pin To Net: NetName=GND0 Pin=C101-2
+Added Pin To Net: NetName=GND0 Pin=C102-1
+Added Pin To Net: NetName=GND0 Pin=C103-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C103-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=C104-1
+Added Pin To Net: NetName=GND0 Pin=C104-2
+Added Pin To Net: NetName=GND0 Pin=C105-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=CN2-5
+Added Pin To Net: NetName=+3.3V_ISO Pin=CN2-6
+Added Pin To Net: NetName=GND0 Pin=CN2-10
+Added Pin To Net: NetName=GND0 Pin=CN2-13
+Added Pin To Net: NetName=GND0 Pin=CN2-14
+Added Pin To Net: NetName=+3.3V_ISO Pin=L4-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R147-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=R148-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=R149-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R150-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R151-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R152-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R153-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=R154-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=R155-1
+Added Pin To Net: NetName=GND0 Pin=R158-2
+Added Pin To Net: NetName=GND0 Pin=R160-1
+Added Pin To Net: NetName=GND0 Pin=R161-1
+Added Pin To Net: NetName=GND0 Pin=R162-1
+Added Pin To Net: NetName=GND0 Pin=R163-1
+Added Pin To Net: NetName=GND0 Pin=R165-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=U31-9
+Added Pin To Net: NetName=GND0 Pin=U31-25
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C60 4.7uF/50V
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C63 4.7uF/16V
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C66 2.2UF (16V)
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C67 10UF (16V)
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C73 0.1uF/10V
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C74 0.1uF/16V
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C81 2.2uF_X7R
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C82 1uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C83 100nF
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component L2 2.2uH 2.3A
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component P1 S2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component P2 S2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R65 500R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R66 500R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R67 500R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R68 500R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R69 500R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R70 500R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R71 220R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R73 55K
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R77 220R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R78 220R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R84 220R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R88 167K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R89 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R90 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R91 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R92 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R93 100R
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R94 20K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R95 100R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U9 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component U28 LMR10510XMFE
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component U29 MAX14850ASET
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component U31 LAN8742A-CZ-TR
