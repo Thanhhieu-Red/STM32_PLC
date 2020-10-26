@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PC2 Pin=U21-6
+Removed Pin From Net: NetName=PC2 Pin=U21-7
+Removed Pin From Net: NetName=PC3 Pin=U25-3
+Added Pin To Net: NetName=PC3 Pin=U21-6
+Added Pin To Net: NetName=PC3 Pin=U21-7
+Added Pin To Net: NetName=PB15 Pin=U25-3
