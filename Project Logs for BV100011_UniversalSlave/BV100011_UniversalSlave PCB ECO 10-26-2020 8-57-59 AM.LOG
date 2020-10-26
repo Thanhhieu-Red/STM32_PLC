@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=C66-2
+Removed Pin From Net: NetName=GND Pin=C68-1
+Removed Pin From Net: NetName=GND Pin=LD1-2
+Removed Pin From Net: NetName=GND Pin=U28-2
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=C72
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=C92
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=LD3
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R136
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=R141
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=R143
+Added Pin To Net: NetName=GND0 Pin=C66-2
+Added Pin To Net: NetName=GND0 Pin=C67-2
+Added Pin To Net: NetName=GND0 Pin=C68-1
+Added Pin To Net: NetName=GND0 Pin=C69-1
+Added Pin To Net: NetName=GND0 Pin=LD1-2
+Added Pin To Net: NetName=GND0 Pin=U28-0
+Added Pin To Net: NetName=GND0 Pin=U28-2
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C70 100nF/16V
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C71 0.1uF/10V
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C73 2pF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C74 2pF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C76 4.3pF[N/A]
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C77 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C78 2.2uF_X7R
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C79 2.2uF_X7R
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C81 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C82 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C84 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C85 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C86 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C87 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C90 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C91 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C93 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C94 4.7uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C96 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C97 30pF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C101 470pF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C102 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C103 10uF
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D40 CDSOT23-SM712
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component L2 BEAD
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component L3 BLM18PG121SN1D
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component LD1 Green
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component LD2 Blue
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R127 1.24K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R128 22K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R129 22K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R130 1.24K
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R131 100K
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R139 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R144 50
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R146 1K5
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R147 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R151 50
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R153 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R155 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R159 10K
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R160 330
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R161 330
