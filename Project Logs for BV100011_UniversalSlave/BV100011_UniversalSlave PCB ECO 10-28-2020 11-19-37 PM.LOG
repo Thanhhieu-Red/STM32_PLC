@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=GND0 Pin=IC2-2
+Removed Pin From Net: NetName=GND0 Pin=IC3-2
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=IC2
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=IC3
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=J2
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=R86
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=R87
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=R88
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=R89
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=R90
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=R91
+Change Component Designator: OldDesignator=J2 NewDesignator=J8
+Change Component Designator: OldDesignator=R86 NewDesignator=R162
+Change Component Designator: OldDesignator=R87 NewDesignator=R163
+Change Component Designator: OldDesignator=R88 NewDesignator=R164
+Change Component Designator: OldDesignator=R89 NewDesignator=R165
+Change Component Designator: OldDesignator=R90 NewDesignator=R166
+Change Component Designator: OldDesignator=R91 NewDesignator=R167
+Added Pin To Net: NetName=+3.3V_ISO Pin=IC2-2
+Added Pin To Net: NetName=NetC11_2 Pin=IC2-3
+Added Pin To Net: NetName=NetC10_2 Pin=IC2-4
+Added Pin To Net: NetName=NetC9_2 Pin=IC2-5
+Added Pin To Net: NetName=VCC_iso_AO0 Pin=IC3-1
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Change Net Name : Old Net Name=NetR86_1 New Net Name=NetR162_1
+Change Net Name : Old Net Name=NetR88_1 New Net Name=NetR164_1
+Change Net Name : Old Net Name=NetR89_1 New Net Name=NetR165_1
+Change Net Name : Old Net Name=NetR90_1 New Net Name=NetR166_1
+Change Net Name : Old Net Name=NetR91_1 New Net Name=NetR167_1
+Added Pin To Net: NetName=NetIC8_1 Pin=J8-2
+Added Pin To Net: NetName=NetIC8_1 Pin=R162-2
+Added Net: Name=NetIC8_1
+Added Pin To Net: NetName=NetIC8_3 Pin=J8-4
+Added Pin To Net: NetName=NetIC8_3 Pin=R163-2
+Added Net: Name=NetIC8_3
+Added Pin To Net: NetName=NetIC8_4 Pin=J8-6
+Added Pin To Net: NetName=NetIC8_4 Pin=R164-2
+Added Net: Name=NetIC8_4
+Added Pin To Net: NetName=NetIC8_5 Pin=J8-8
+Added Pin To Net: NetName=NetIC8_5 Pin=R165-2
+Added Net: Name=NetIC8_5
+Added Pin To Net: NetName=NetIC9_1 Pin=J8-10
+Added Pin To Net: NetName=NetIC9_1 Pin=R167-2
+Added Net: Name=NetIC9_1
+Added Pin To Net: NetName=NetIC9_3 Pin=J8-9
+Added Pin To Net: NetName=NetIC9_3 Pin=R166-2
+Added Net: Name=NetIC9_3
+Added Pin To Net: NetName=NetR163_1 Pin=R163-1
+Added Net: Name=NetR163_1
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component J8 TC2050-IDC-NL
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R162 22
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R163 22
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R164 22
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R165 22
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R166 22
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R167 22
