@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=U_BV100011_ControlDO Member=Earth1
+Added Pin To Net: NetName=EARTH Pin=C33-1
+Added Pin To Net: NetName=EARTH Pin=C34-1
+Added Net: Name=EARTH

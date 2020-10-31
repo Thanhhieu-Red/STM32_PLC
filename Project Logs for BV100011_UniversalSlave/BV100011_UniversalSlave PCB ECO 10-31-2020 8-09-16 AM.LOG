@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Added Component: Designator=J8(1843800)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1843800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1843800/phoenix-contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.phoenixcontact.com/online/portal/gb?uri=pxc-oc-itemdetail:pid=1843800&library=gben&tab=1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1843800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1843800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1843800?qs=uJX40y%252BSWqgV2WPXXVa%2FDw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component J8 1843800

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetD39_1 Pin=J6-1
+Removed Pin From Net: NetName=NetD39_2 Pin=J6-2
+Removed Pin From Net: NetName=NetD39_1 Pin=R97-1
+Removed Pin From Net: NetName=NetD39_2 Pin=R97-2
+Added Pin To Net: NetName=NetD39_2 Pin=J6-1
+Added Pin To Net: NetName=NetD39_1 Pin=J6-2
+Added Pin To Net: NetName=NetD39_2 Pin=R97-1
+Added Pin To Net: NetName=NetD39_1 Pin=R97-2
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D30 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D31 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D32 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D33 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D34 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D35 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D36 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D37 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component D38 STTH4R02UY
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D39 CDSOT23-SM712
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component J7 1843800
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component J8 TC2050-IDC-NL

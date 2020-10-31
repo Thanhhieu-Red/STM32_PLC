@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=J9
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=EARTH Pin=J8-3
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component J8 1843800

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VIN Pin=D30-1
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=D30
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=J9
+Change Component Designator: OldDesignator=D31 NewDesignator=D30
+Change Component Designator: OldDesignator=D32 NewDesignator=D31
+Change Component Designator: OldDesignator=D33 NewDesignator=D32
+Change Component Designator: OldDesignator=D34 NewDesignator=D33
+Change Component Designator: OldDesignator=D35 NewDesignator=D34
+Change Component Designator: OldDesignator=D36 NewDesignator=D35
+Change Component Designator: OldDesignator=D37 NewDesignator=D36
+Change Component Designator: OldDesignator=D38 NewDesignator=D37
+Change Component Designator: OldDesignator=D39 NewDesignator=D38
+Change Component Designator: OldDesignator=D40 NewDesignator=D39
+Change Component Designator: OldDesignator=J8 NewDesignator=J7
+Change Component Designator: OldDesignator=J9 NewDesignator=J8
+Change Net Name : Old Net Name=NetD40_1 New Net Name=NetD39_1
+Change Net Name : Old Net Name=NetD40_2 New Net Name=NetD39_2
