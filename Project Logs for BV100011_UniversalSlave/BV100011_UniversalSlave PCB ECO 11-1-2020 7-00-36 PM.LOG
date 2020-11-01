@@ -1,0 +1,119 @@
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=C53
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=C83
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=C85
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=C88
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=R101
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=R102
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R127
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R128
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R132
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=R140
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=R159
+Added Component: Designator=F1(FUSC6125X279N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://belfuse.com/resources/datasheets/circuitprotection/ds-cp-0680l-series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.79mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stewart Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0680L0750-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "530-0680L0750-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bel-Fuse/0680L0750-05?qs=XeJtXLiO41Q8xKKngRilvg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://d1d2qsbl8m0m72.cloudfront.net/en/products/databook/datasheet/discrete/transistor/mosfet/rss070p05fra-e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RSS070P05FRATB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-RSS070P05FRATB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-RSS070P05FRATB"; VariantName = "[No Variations]"
+Added Component: Designator=Z1(SODFL3616X130N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BZT52-B10X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bzt52-b10x/nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/BZT52-B10X.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BZT52-B10X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BZT52-B10X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BZT52-B10X?qs=W0yvOO0ixfEZrHW2hWNc1Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=Q3-1
+Added Pin To Net: NetName=NetF1_2 Pin=Q3-2
+Added Pin To Net: NetName=NetF1_2 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3-4
+Added Pin To Net: NetName=VIN Pin=Q3-5
+Added Pin To Net: NetName=VIN Pin=Q3-6
+Added Pin To Net: NetName=VIN Pin=Q3-7
+Added Pin To Net: NetName=VIN Pin=Q3-8
+Added Pin To Net: NetName=NetF1_2 Pin=Z1-1
+Added Pin To Net: NetName=NetQ3_4 Pin=Z1-2
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component C51 2.2uF 100V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C52 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C54 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C56 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C57 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C59 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C60 1uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C61 1uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C62 100nF
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C63 100nF
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C64 100nF/16V
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C65 0.1uF/10V
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C66 0.1uF/16V
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C67 2pF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C68 2pF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C69 4.3pF[N/A]
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C71 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C73 2.2uF_X7R
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C76 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C81 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C84 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C89 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C91 30pF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C94 10uF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C96 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C98 1uF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C99 30pF
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D38 CDSOT23-SM712
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component F1 0680L0750-05
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component IC6 MAX14783EASA+
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component IC7 ESDALC6V1W5
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component L1 BEAD
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component Q3 RSS070P05FRATB
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component R98 1R
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component R99 100K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R100 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R103 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R108 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R111 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R116 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R121 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R122 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R123 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R124 1K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R125 1.24K
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R129 100K
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R130 680
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R133 0
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R134 10K
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R136 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R137 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R138 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R139 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R141 0_5%_0402
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R142 50
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R146 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R148 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R149 50
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R151 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R152 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R155 33
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R161 22
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R162 22
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R163 22
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R164 22
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component Z1 BZT52-B10X
