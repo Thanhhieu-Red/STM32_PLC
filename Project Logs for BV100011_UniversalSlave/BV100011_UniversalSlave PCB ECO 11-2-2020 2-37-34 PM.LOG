@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Added Pin To Net: NetName=GND Pin=J8-6
