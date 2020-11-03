@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=AI0 Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-5
+Removed Pin From Net: NetName=DSW_AI0 Pin=U4-6
+Removed Pin From Net: NetName=GND Pin=U4-7
+Removed Pin From Net: NetName=AI1 Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-5
+Removed Pin From Net: NetName=DSW_AI1 Pin=U6-6
+Removed Pin From Net: NetName=GND Pin=U6-7
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=IC13
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=IC13
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=IC14
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=IC14
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=U13
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=U18
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=U21
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC5
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC6
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC7
+Change Component Designator: OldDesignator=IC6 NewDesignator=IC8
+Change Component Designator: OldDesignator=IC7 NewDesignator=IC9
+Change Component Designator: OldDesignator=IC8 NewDesignator=IC10
+Change Component Designator: OldDesignator=IC9 NewDesignator=IC11
+Change Component Designator: OldDesignator=IC10 NewDesignator=IC12
+Change Component Designator: OldDesignator=IC11 NewDesignator=IC13
+Change Component Designator: OldDesignator=IC12 NewDesignator=IC14
+Change Component Designator: OldDesignator=IC13 NewDesignator=IC15
+Change Component Designator: OldDesignator=IC14 NewDesignator=IC16
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U7 NewDesignator=U5
+Change Component Designator: OldDesignator=U8 NewDesignator=U6
+Change Component Designator: OldDesignator=U9 NewDesignator=U7
+Change Component Designator: OldDesignator=U10 NewDesignator=U8
+Change Component Designator: OldDesignator=U11 NewDesignator=U9
+Change Component Designator: OldDesignator=U12 NewDesignator=U10
+Change Component Designator: OldDesignator=U13 NewDesignator=U11
+Change Component Designator: OldDesignator=U14 NewDesignator=U12
+Change Component Designator: OldDesignator=U15 NewDesignator=U13
+Change Component Designator: OldDesignator=U16 NewDesignator=U14
+Change Component Designator: OldDesignator=U17 NewDesignator=U15
+Change Component Designator: OldDesignator=U18 NewDesignator=U16
+Change Component Designator: OldDesignator=U19 NewDesignator=U17
+Change Component Designator: OldDesignator=U20 NewDesignator=U18
+Change Component Designator: OldDesignator=U21 NewDesignator=U19
+Change Component Designator: OldDesignator=U22 NewDesignator=U20
+Change Component Designator: OldDesignator=U23 NewDesignator=U21
+Change Component Designator: OldDesignator=U24 NewDesignator=U22
+Change Component Designator: OldDesignator=U25 NewDesignator=U23
+Added Component: Designator=IC3(SON95P300X300X80-7N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.maximintegrated.com/en/ds/MAX14626.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX14626ETT+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX14626ETT+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX14626ETT%2bT?qs=Vwh6e7toGLjhMUByPdHdJg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(SON95P300X300X80-7N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.maximintegrated.com/en/ds/MAX14626.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX14626ETT+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX14626ETT+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX14626ETT%2bT?qs=Vwh6e7toGLjhMUByPdHdJg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AI0 Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-5
+Added Pin To Net: NetName=DSW_AI0 Pin=IC3-6
+Added Pin To Net: NetName=GND Pin=IC3-7
+Added Pin To Net: NetName=AI1 Pin=IC4-1
+Added Pin To Net: NetName=GND Pin=IC4-5
+Added Pin To Net: NetName=DSW_AI1 Pin=IC4-6
+Added Pin To Net: NetName=GND Pin=IC4-7
+Change Net Name : Old Net Name=NetIC9_2 New Net Name=NetIC11_2
+Change Net Name : Old Net Name=NetIC9_3 New Net Name=NetIC11_3
+Change Net Name : Old Net Name=NetIC9_4 New Net Name=NetIC11_4
+Change Net Name : Old Net Name=NetIC9_8 New Net Name=NetIC11_8
+Change Net Name : Old Net Name=NetIC10_2 New Net Name=NetIC12_2
+Change Net Name : Old Net Name=NetIC10_8 New Net Name=NetIC12_8
+Change Net Name : Old Net Name=NetIC12_1 New Net Name=NetIC14_1
+Change Net Name : Old Net Name=NetIC12_2 New Net Name=NetIC14_2
+Change Net Name : Old Net Name=NetIC12_4 New Net Name=NetIC14_4
+Change Net Name : Old Net Name=NetIC13_1 New Net Name=NetIC15_1
+Change Net Name : Old Net Name=NetIC13_3 New Net Name=NetIC15_3
+Change Net Name : Old Net Name=NetIC13_4 New Net Name=NetIC15_4
+Change Net Name : Old Net Name=NetIC13_5 New Net Name=NetIC15_5
+Change Net Name : Old Net Name=NetIC14_1 New Net Name=NetIC16_1
+Change Net Name : Old Net Name=NetIC14_3 New Net Name=NetIC16_3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC3 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC4 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC5 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC6 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC9 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC10 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC11 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC12 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U10 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U12 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U13 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U14 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U15 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U16 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U17 MAX14850ASET
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U19 XTR116UA
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component U20 LD39050PU33R
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component U23 LAN8742A-CZ-TR
