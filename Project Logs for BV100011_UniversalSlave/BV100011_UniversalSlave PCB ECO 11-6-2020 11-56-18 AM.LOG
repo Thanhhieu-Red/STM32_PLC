@@ -1,0 +1,206 @@
+Removed Pin From Net: NetName=DSW_AI0 Pin=S1-1
+Removed Pin From Net: NetName=DSW_AI1 Pin=S1-3
+Removed Pin From Net: NetName=DSW_AI2 Pin=S1-5
+Removed Pin From Net: NetName=DSW_AI3 Pin=S1-7
+Removed Pin From Net: NetName=DSW_AI4 Pin=S1-9
+Removed Pin From Net: NetName=DSW_AI5 Pin=S1-11
+Removed Pin From Net: NetName=DSW_AI6 Pin=S1-13
+Removed Pin From Net: NetName=DSW_AI7 Pin=S1-15
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=IC15
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=IC15
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=IC15
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=IC16
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=IC16
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=IC16
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=S1
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=U11
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=U16
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=U16
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=U19
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=U19
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=U20
+Change Component Designator: OldDesignator=C40 NewDesignator=C42
+Change Component Designator: OldDesignator=C41 NewDesignator=C43
+Change Component Designator: OldDesignator=C42 NewDesignator=C44
+Change Component Designator: OldDesignator=C43 NewDesignator=C45
+Change Component Designator: OldDesignator=C44 NewDesignator=C46
+Change Component Designator: OldDesignator=C45 NewDesignator=C47
+Change Component Designator: OldDesignator=C46 NewDesignator=C48
+Change Component Designator: OldDesignator=C47 NewDesignator=C49
+Change Component Designator: OldDesignator=C48 NewDesignator=C50
+Change Component Designator: OldDesignator=C49 NewDesignator=C51
+Change Component Designator: OldDesignator=C50 NewDesignator=C52
+Change Component Designator: OldDesignator=C51 NewDesignator=C53
+Change Component Designator: OldDesignator=C52 NewDesignator=C54
+Change Component Designator: OldDesignator=C53 NewDesignator=C55
+Change Component Designator: OldDesignator=C54 NewDesignator=C56
+Change Component Designator: OldDesignator=C55 NewDesignator=C57
+Change Component Designator: OldDesignator=C56 NewDesignator=C58
+Change Component Designator: OldDesignator=C57 NewDesignator=C59
+Change Component Designator: OldDesignator=C58 NewDesignator=C60
+Change Component Designator: OldDesignator=C59 NewDesignator=C61
+Change Component Designator: OldDesignator=C60 NewDesignator=C62
+Change Component Designator: OldDesignator=C61 NewDesignator=C63
+Change Component Designator: OldDesignator=C62 NewDesignator=C64
+Change Component Designator: OldDesignator=C63 NewDesignator=C65
+Change Component Designator: OldDesignator=C64 NewDesignator=C66
+Change Component Designator: OldDesignator=C65 NewDesignator=C67
+Change Component Designator: OldDesignator=C66 NewDesignator=C68
+Change Component Designator: OldDesignator=C67 NewDesignator=C69
+Change Component Designator: OldDesignator=C68 NewDesignator=C70
+Change Component Designator: OldDesignator=C69 NewDesignator=C71
+Change Component Designator: OldDesignator=C70 NewDesignator=C72
+Change Component Designator: OldDesignator=C71 NewDesignator=C73
+Change Component Designator: OldDesignator=C72 NewDesignator=C74
+Change Component Designator: OldDesignator=C73 NewDesignator=C75
+Change Component Designator: OldDesignator=C74 NewDesignator=C76
+Change Component Designator: OldDesignator=C75 NewDesignator=C77
+Change Component Designator: OldDesignator=C76 NewDesignator=C78
+Change Component Designator: OldDesignator=C77 NewDesignator=C79
+Change Component Designator: OldDesignator=C78 NewDesignator=C80
+Change Component Designator: OldDesignator=C79 NewDesignator=C81
+Change Component Designator: OldDesignator=C80 NewDesignator=C82
+Change Component Designator: OldDesignator=C81 NewDesignator=C83
+Change Component Designator: OldDesignator=C82 NewDesignator=C84
+Change Component Designator: OldDesignator=C83 NewDesignator=C85
+Change Component Designator: OldDesignator=C84 NewDesignator=C86
+Change Component Designator: OldDesignator=C85 NewDesignator=C87
+Change Component Designator: OldDesignator=C86 NewDesignator=C88
+Change Component Designator: OldDesignator=C87 NewDesignator=C89
+Change Component Designator: OldDesignator=C88 NewDesignator=C90
+Change Component Designator: OldDesignator=C89 NewDesignator=C91
+Change Component Designator: OldDesignator=C90 NewDesignator=C92
+Change Component Designator: OldDesignator=C91 NewDesignator=C93
+Change Component Designator: OldDesignator=C92 NewDesignator=C94
+Change Component Designator: OldDesignator=C93 NewDesignator=C95
+Change Component Designator: OldDesignator=C94 NewDesignator=C96
+Change Component Designator: OldDesignator=C95 NewDesignator=C97
+Change Component Designator: OldDesignator=C96 NewDesignator=C98
+Change Component Designator: OldDesignator=C97 NewDesignator=C99
+Change Component Designator: OldDesignator=C98 NewDesignator=C100
+Change Component Designator: OldDesignator=C99 NewDesignator=C101
+Change Component Designator: OldDesignator=C100 NewDesignator=C102
+Change Component Designator: OldDesignator=C101 NewDesignator=C103
+Change Component Designator: OldDesignator=C102 NewDesignator=C104
+Change Component Designator: OldDesignator=C103 NewDesignator=C105
+Change Component Designator: OldDesignator=IC9 NewDesignator=IC10
+Change Component Designator: OldDesignator=IC10 NewDesignator=IC11
+Change Component Designator: OldDesignator=IC11 NewDesignator=IC12
+Change Component Designator: OldDesignator=IC12 NewDesignator=IC13
+Change Component Designator: OldDesignator=IC13 NewDesignator=IC14
+Change Component Designator: OldDesignator=IC14 NewDesignator=IC15
+Change Component Designator: OldDesignator=IC15 NewDesignator=IC16
+Change Component Designator: OldDesignator=IC16 NewDesignator=IC17
+Added Component: Designator=C40(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C41(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=IC9(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ISO7420FED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/iso7420fed/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/iso7420fe.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ISO7420FED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-ISO7420FED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ISO7420FED?qs=O1HRStiETChgLA5D6n5Bfw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND0 Pin=C40-1
+Added Pin To Net: NetName=+3.3V_ISO Pin=C40-2
+Added Pin To Net: NetName=+5V Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=+3.3V_ISO Pin=IC9-1
+Added Pin To Net: NetName=GND0 Pin=IC9-4
+Added Pin To Net: NetName=GND Pin=IC9-5
+Added Pin To Net: NetName=+5V Pin=IC9-8
+Added Pin To Net: NetName=DSW_AI0 Pin=R63-2
+Added Pin To Net: NetName=DSW_AI1 Pin=R64-2
+Added Pin To Net: NetName=DSW_AI2 Pin=R65-2
+Added Pin To Net: NetName=DSW_AI3 Pin=R66-2
+Added Pin To Net: NetName=DSW_AI7 Pin=R67-2
+Added Pin To Net: NetName=DSW_AI6 Pin=R68-2
+Added Pin To Net: NetName=DSW_AI5 Pin=R69-2
+Added Pin To Net: NetName=DSW_AI4 Pin=R70-2
+Change Net Name : Old Net Name=NetC40_1 New Net Name=NetC42_1
+Change Net Name : Old Net Name=NetC40_2 New Net Name=NetC42_2
+Change Net Name : Old Net Name=NetC41_1 New Net Name=NetC43_1
+Change Net Name : Old Net Name=NetC41_2 New Net Name=NetC43_2
+Change Net Name : Old Net Name=NetC42_1 New Net Name=NetC44_1
+Change Net Name : Old Net Name=NetC42_2 New Net Name=NetC44_2
+Change Net Name : Old Net Name=NetC43_2 New Net Name=NetC45_2
+Change Net Name : Old Net Name=NetC49_1 New Net Name=NetC51_1
+Change Net Name : Old Net Name=NetC49_2 New Net Name=NetC51_2
+Change Net Name : Old Net Name=NetC50_1 New Net Name=NetC52_1
+Change Net Name : Old Net Name=NetC50_2 New Net Name=NetC52_2
+Change Net Name : Old Net Name=NetC51_2 New Net Name=NetC53_2
+Change Net Name : Old Net Name=NetC71_1 New Net Name=NetC73_1
+Change Net Name : Old Net Name=NetC72_1 New Net Name=NetC74_1
+Change Net Name : Old Net Name=NetC73_1 New Net Name=NetC75_1
+Change Net Name : Old Net Name=NetC74_1 New Net Name=NetC76_1
+Change Net Name : Old Net Name=NetC76_1 New Net Name=NetC78_1
+Change Net Name : Old Net Name=NetC77_1 New Net Name=NetC79_1
+Change Net Name : Old Net Name=NetC95_1 New Net Name=NetC97_1
+Change Net Name : Old Net Name=NetC96_2 New Net Name=NetC98_2
+Change Net Name : Old Net Name=NetC99_2 New Net Name=NetC101_2
+Change Net Name : Old Net Name=NetC103_1 New Net Name=NetC105_1
+Change Net Name : Old Net Name=NetIC11_2 New Net Name=NetIC12_2
+Change Net Name : Old Net Name=NetIC11_3 New Net Name=NetIC12_3
+Change Net Name : Old Net Name=NetIC11_4 New Net Name=NetIC12_4
+Change Net Name : Old Net Name=NetIC11_8 New Net Name=NetIC12_8
+Change Net Name : Old Net Name=NetIC12_2 New Net Name=NetIC13_2
+Change Net Name : Old Net Name=NetIC12_8 New Net Name=NetIC13_8
+Change Net Name : Old Net Name=NetIC14_1 New Net Name=NetIC15_1
+Change Net Name : Old Net Name=NetIC14_2 New Net Name=NetIC15_2
+Change Net Name : Old Net Name=NetIC14_4 New Net Name=NetIC15_4
+Change Net Name : Old Net Name=NetIC15_1 New Net Name=NetIC16_1
+Change Net Name : Old Net Name=NetIC15_3 New Net Name=NetIC16_3
+Change Net Name : Old Net Name=NetIC15_4 New Net Name=NetIC16_4
+Change Net Name : Old Net Name=NetIC15_5 New Net Name=NetIC16_5
+Change Net Name : Old Net Name=NetIC16_1 New Net Name=NetIC17_1
+Change Net Name : Old Net Name=NetIC16_3 New Net Name=NetIC17_3
+Added Pin To Net: NetName=NetIC9_2 Pin=IC9-2
+Added Net: Name=NetIC9_2
+Added Pin To Net: NetName=NetIC9_3 Pin=IC9-3
+Added Net: Name=NetIC9_3
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C43 100pF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C44 100pF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC3 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC4 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC5 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC7 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC8 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC11 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC12 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC13 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component IC14 SI8380P-IU
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component IC15 MAX14783EASA+
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U4 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U6 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U7 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U9 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U12 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U13 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U14 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U15 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U16 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U17 MAX14850ASET
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U18 XTR116UA
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U19 XTR116UA
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component U20 LD39050PU33R
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component U21 MAX14850ASET
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component U22 MCU_LQFP144
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component U23 LAN8742A-CZ-TR

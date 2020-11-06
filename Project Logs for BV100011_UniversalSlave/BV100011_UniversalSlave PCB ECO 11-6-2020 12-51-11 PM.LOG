@@ -1,0 +1,224 @@
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=C52
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=C54
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=C55
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=C57
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=C60
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=C67
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C69
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C72
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C78
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C81
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=C84
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=C102
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=IC12
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=IC14
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=IC16
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=IC16
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R91
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=R92
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=R102
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R102
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=R103
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R103
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R128
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R131
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=R131
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R137
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R138
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R144
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R145
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=R163
+Change Component Designator: OldDesignator=C43 NewDesignator=C45
+Change Component Designator: OldDesignator=C44 NewDesignator=C46
+Change Component Designator: OldDesignator=C45 NewDesignator=C47
+Change Component Designator: OldDesignator=C46 NewDesignator=C48
+Change Component Designator: OldDesignator=C47 NewDesignator=C49
+Change Component Designator: OldDesignator=C48 NewDesignator=C50
+Change Component Designator: OldDesignator=C49 NewDesignator=C51
+Change Component Designator: OldDesignator=C50 NewDesignator=C52
+Change Component Designator: OldDesignator=C51 NewDesignator=C53
+Change Component Designator: OldDesignator=C52 NewDesignator=C54
+Change Component Designator: OldDesignator=C53 NewDesignator=C55
+Change Component Designator: OldDesignator=C54 NewDesignator=C56
+Change Component Designator: OldDesignator=C55 NewDesignator=C57
+Change Component Designator: OldDesignator=C56 NewDesignator=C58
+Change Component Designator: OldDesignator=C57 NewDesignator=C59
+Change Component Designator: OldDesignator=C58 NewDesignator=C60
+Change Component Designator: OldDesignator=C59 NewDesignator=C61
+Change Component Designator: OldDesignator=C60 NewDesignator=C62
+Change Component Designator: OldDesignator=C61 NewDesignator=C63
+Change Component Designator: OldDesignator=C62 NewDesignator=C64
+Change Component Designator: OldDesignator=C63 NewDesignator=C65
+Change Component Designator: OldDesignator=C64 NewDesignator=C66
+Change Component Designator: OldDesignator=C65 NewDesignator=C67
+Change Component Designator: OldDesignator=C66 NewDesignator=C68
+Change Component Designator: OldDesignator=C67 NewDesignator=C69
+Change Component Designator: OldDesignator=C68 NewDesignator=C70
+Change Component Designator: OldDesignator=C69 NewDesignator=C71
+Change Component Designator: OldDesignator=C70 NewDesignator=C72
+Change Component Designator: OldDesignator=C71 NewDesignator=C73
+Change Component Designator: OldDesignator=C72 NewDesignator=C74
+Change Component Designator: OldDesignator=C73 NewDesignator=C75
+Change Component Designator: OldDesignator=C74 NewDesignator=C76
+Change Component Designator: OldDesignator=C75 NewDesignator=C77
+Change Component Designator: OldDesignator=C76 NewDesignator=C78
+Change Component Designator: OldDesignator=C77 NewDesignator=C79
+Change Component Designator: OldDesignator=C78 NewDesignator=C80
+Change Component Designator: OldDesignator=C79 NewDesignator=C81
+Change Component Designator: OldDesignator=C80 NewDesignator=C82
+Change Component Designator: OldDesignator=C81 NewDesignator=C83
+Change Component Designator: OldDesignator=C82 NewDesignator=C84
+Change Component Designator: OldDesignator=C83 NewDesignator=C85
+Change Component Designator: OldDesignator=C84 NewDesignator=C86
+Change Component Designator: OldDesignator=C85 NewDesignator=C87
+Change Component Designator: OldDesignator=C86 NewDesignator=C88
+Change Component Designator: OldDesignator=C87 NewDesignator=C89
+Change Component Designator: OldDesignator=C88 NewDesignator=C90
+Change Component Designator: OldDesignator=C89 NewDesignator=C91
+Change Component Designator: OldDesignator=C90 NewDesignator=C92
+Change Component Designator: OldDesignator=C91 NewDesignator=C93
+Change Component Designator: OldDesignator=C92 NewDesignator=C94
+Change Component Designator: OldDesignator=C93 NewDesignator=C95
+Change Component Designator: OldDesignator=C94 NewDesignator=C96
+Change Component Designator: OldDesignator=C95 NewDesignator=C97
+Change Component Designator: OldDesignator=C96 NewDesignator=C98
+Change Component Designator: OldDesignator=C97 NewDesignator=C99
+Change Component Designator: OldDesignator=C98 NewDesignator=C100
+Change Component Designator: OldDesignator=C99 NewDesignator=C101
+Change Component Designator: OldDesignator=C100 NewDesignator=C102
+Change Component Designator: OldDesignator=C101 NewDesignator=C103
+Change Component Designator: OldDesignator=C102 NewDesignator=C104
+Change Component Designator: OldDesignator=C103 NewDesignator=C105
+Change Component Designator: OldDesignator=C104 NewDesignator=C106
+Change Component Designator: OldDesignator=C105 NewDesignator=C107
+Change Component Designator: OldDesignator=C106 NewDesignator=C108
+Change Component Designator: OldDesignator=C107 NewDesignator=C109
+Change Component Designator: OldDesignator=C108 NewDesignator=C110
+Change Component Designator: OldDesignator=C109 NewDesignator=C111
+Added Component: Designator=C43(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C44(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF/16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=+5V Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=+5V Pin=C44-2
+Change Net Name : Old Net Name=NetC43_1 New Net Name=NetC45_1
+Change Net Name : Old Net Name=NetC43_2 New Net Name=NetC45_2
+Change Net Name : Old Net Name=NetC44_1 New Net Name=NetC46_1
+Change Net Name : Old Net Name=NetC45_1 New Net Name=NetC47_1
+Change Net Name : Old Net Name=NetC46_1 New Net Name=NetC48_1
+Change Net Name : Old Net Name=NetC47_1 New Net Name=NetC49_1
+Change Net Name : Old Net Name=NetC48_1 New Net Name=NetC50_1
+Change Net Name : Old Net Name=NetC48_2 New Net Name=NetC50_2
+Change Net Name : Old Net Name=NetC49_2 New Net Name=NetC51_2
+Change Net Name : Old Net Name=NetC55_1 New Net Name=NetC57_1
+Change Net Name : Old Net Name=NetC55_2 New Net Name=NetC57_2
+Change Net Name : Old Net Name=NetC56_1 New Net Name=NetC58_1
+Change Net Name : Old Net Name=NetC56_2 New Net Name=NetC58_2
+Change Net Name : Old Net Name=NetC57_2 New Net Name=NetC59_2
+Change Net Name : Old Net Name=NetC77_1 New Net Name=NetC79_1
+Change Net Name : Old Net Name=NetC78_1 New Net Name=NetC80_1
+Change Net Name : Old Net Name=NetC79_1 New Net Name=NetC81_1
+Change Net Name : Old Net Name=NetC80_1 New Net Name=NetC82_1
+Change Net Name : Old Net Name=NetC82_1 New Net Name=NetC84_1
+Change Net Name : Old Net Name=NetC83_1 New Net Name=NetC85_1
+Change Net Name : Old Net Name=NetC101_1 New Net Name=NetC103_1
+Change Net Name : Old Net Name=NetC102_2 New Net Name=NetC104_2
+Change Net Name : Old Net Name=NetC105_2 New Net Name=NetC107_2
+Change Net Name : Old Net Name=NetC109_1 New Net Name=NetC111_1
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C40 100pF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C41 0.1uF
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C42 0.1uF
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C44 0.1uF
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C45 100pF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C46 0.1uF
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C47 0.1uF
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C49 0.1uF
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C50 100pF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C51 0.1uF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C52 0.1uF/10V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C53 100nF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C56 2.2uF/10V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C58 10nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C61 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C62 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C63 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C64 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C65 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C70 UUD1H221MNL1GS
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C73 1uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C74 100nF
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C76 100nF/16V
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C79 2pF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C82 4.3pF[N/A]
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C85 2.2uF_X7R
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C87 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C88 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C90 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C93 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C95 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C98 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C100 4.7uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C102 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C103 30pF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C105 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C110 1uF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C111 30pF
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC9 ISO7420FED
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC11 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC12 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC13 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component IC14 SI8380P-IU
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component IC15 MAX14783EASA+
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component IC16 ESDALC6V1W5
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R82 1K
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R83 1K
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R85 220R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R90 167K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R95 100R
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R98 20K
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R99 120R
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component R100 1R
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component R101 100K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R106 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R109 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R114 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R119 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R122 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R125 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R126 1K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R127 1.24K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R129 22K
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R132 680
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R135 0
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R136 10K
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R139 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R142 [NA]
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R143 0_5%_0402
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R147 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R148 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R149 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R151 50
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R152 50
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R154 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R155 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R156 12K1
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R159 10K
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R161 330
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R164 22
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component S1 MAX14759ETA+T
