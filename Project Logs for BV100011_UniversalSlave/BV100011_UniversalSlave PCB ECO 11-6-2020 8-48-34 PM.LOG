@@ -1,0 +1,53 @@
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=C51
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=C52
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=C59
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=C62
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C68
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C69
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C76
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=C77
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=C80
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=C101
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=C106
+Change Component Footprint: Designator=R27 Old Footprint=J1-0603 New Footprint=0805R
+Change Component Footprint: Designator=R28 Old Footprint=J1-0603 New Footprint=0805R
+Change Component Footprint: Designator=R29 Old Footprint=J1-0603 New Footprint=0805R
+Change Component Footprint: Designator=R30 Old Footprint=J1-0603 New Footprint=0805R
+Change Component Footprint: Designator=R43 Old Footprint=J1-0603 New Footprint=0805R
+Change Component Footprint: Designator=R45 Old Footprint=J1-0603 New Footprint=0805R
+Change Component Footprint: Designator=R47 Old Footprint=J1-0603 New Footprint=0805R
+Change Component Footprint: Designator=R48 Old Footprint=J1-0603 New Footprint=0805R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C43 0.1uF
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C44 0.1uF
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C47 0.1uF
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C48 0.1uF
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C51 0.1uF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C52 0.1uF/10V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C53 100nF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C54 2.2uF/10V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C55 100nF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C57 10nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C60 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C61 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C63 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C66 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C67 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C70 UUD1H221MNL1GS
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C72 1uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C73 1uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C75 100nF
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C76 100nF/16V
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C78 0.1uF/16V
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C79 2pF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C81 4.3pF[N/A]
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C82 4.3pF[N/A]
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C84 2.2uF_X7R
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C89 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C92 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C97 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C102 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C103 30pF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C104 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C105 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C108 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C109 10uF
