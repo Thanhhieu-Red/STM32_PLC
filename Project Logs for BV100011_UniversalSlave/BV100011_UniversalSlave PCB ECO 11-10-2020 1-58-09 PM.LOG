@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=SB18 NewDesignator=SB19
+Change Component Designator: OldDesignator=SB19 NewDesignator=SB20
+Change Component Designator: OldDesignator=SB20 NewDesignator=SB21
+Change Component Designator: OldDesignator=SB21 NewDesignator=SB22
+Change Component Designator: OldDesignator=SB22 NewDesignator=SB23
+Added Component: Designator=SB18(SB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V_ISO Pin=SB18-1
+Added Pin To Net: NetName=NetC113_2 Pin=SB18-2
+Change Net Name : Old Net Name=NetSB20_2 New Net Name=NetSB21_2
+Added Member To Class: ClassName=U_BV100011_EERAM Member=Component SB23 Circuit Breaker
