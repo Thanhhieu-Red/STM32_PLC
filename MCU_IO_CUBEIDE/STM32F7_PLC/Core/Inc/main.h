@@ -124,6 +124,12 @@ void Error_Handler(void);
 #define AI5_GPIO_Port GPIOB
 #define DO_LOAD_Pin GPIO_PIN_11
 #define DO_LOAD_GPIO_Port GPIOF
+#define EERAM_HS_Pin GPIO_PIN_13
+#define EERAM_HS_GPIO_Port GPIOF
+#define EERAM_SCL_Pin GPIO_PIN_14
+#define EERAM_SCL_GPIO_Port GPIOF
+#define EERAM_SDA_Pin GPIO_PIN_15
+#define EERAM_SDA_GPIO_Port GPIOF
 #define V_I_0_Pin GPIO_PIN_0
 #define V_I_0_GPIO_Port GPIOG
 #define V_I_1_Pin GPIO_PIN_1

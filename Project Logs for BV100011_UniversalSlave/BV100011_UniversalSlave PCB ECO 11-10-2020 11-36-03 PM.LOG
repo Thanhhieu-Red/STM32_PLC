@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=DI8 Pin=J2-1
+Removed Pin From Net: NetName=DI9 Pin=J2-2
+Removed Pin From Net: NetName=DI10 Pin=J2-3
+Removed Pin From Net: NetName=DI11 Pin=J2-4
+Removed Pin From Net: NetName=DI12 Pin=J2-5
+Removed Pin From Net: NetName=DI13 Pin=J2-6
+Removed Pin From Net: NetName=DI14 Pin=J2-7
+Removed Pin From Net: NetName=DI15 Pin=J2-8
+Removed Pin From Net: NetName=AI0 Pin=J3-1
+Removed Pin From Net: NetName=AI1 Pin=J3-2
+Removed Pin From Net: NetName=AI2 Pin=J3-3
+Removed Pin From Net: NetName=AI3 Pin=J3-4
+Removed Pin From Net: NetName=AI4 Pin=J3-5
+Removed Pin From Net: NetName=AI5 Pin=J3-6
+Removed Pin From Net: NetName=AI6 Pin=J3-7
+Removed Pin From Net: NetName=AI7 Pin=J3-8
+Removed Pin From Net: NetName=NetD20_2 Pin=J5-1
+Removed Pin From Net: NetName=NetD23_2 Pin=J5-2
+Removed Pin From Net: NetName=NetD25_2 Pin=J5-3
+Removed Pin From Net: NetName=NetD28_2 Pin=J5-4
+Removed Pin From Net: NetName=NetD39_2 Pin=J6-1
+Removed Pin From Net: NetName=NetD39_1 Pin=J6-2
+Removed Pin From Net: NetName=NetD39_2 Pin=R101-1
+Removed Pin From Net: NetName=NetD39_1 Pin=R101-2
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=J8
+Added Pin To Net: NetName=PB9 Pin=J7-1
+Added Pin To Net: NetName=PB8 Pin=J7-2
+Added Pin To Net: NetName=PA10 Pin=J7-3
+Added Pin To Net: NetName=PA9 Pin=J7-4
+Added Pin To Net: NetName=PA13 Pin=R164-1
+Added Pin To Net: NetName=PA14 Pin=R165-1
+Added Pin To Net: NetName=PB3 Pin=R166-1
+Added Pin To Net: NetName=PD9 Pin=R167-1
+Added Pin To Net: NetName=PD8 Pin=R168-1
+Added Pin To Net: NetName=NRST Pin=R169-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetJ2_7 Pin=J2-7
+Added Net: Name=NetJ2_7
+Added Pin To Net: NetName=NetJ2_8 Pin=J2-8
+Added Net: Name=NetJ2_8
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ3_5 Pin=J3-5
+Added Net: Name=NetJ3_5
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Net: Name=NetJ3_6
+Added Pin To Net: NetName=NetJ3_7 Pin=J3-7
+Added Net: Name=NetJ3_7
+Added Pin To Net: NetName=NetJ3_8 Pin=J3-8
+Added Net: Name=NetJ3_8
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-4
+Added Net: Name=NetJ5_4
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=R101-1
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=R101-2
+Added Net: Name=NetJ6_2
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J7 M80-8820742

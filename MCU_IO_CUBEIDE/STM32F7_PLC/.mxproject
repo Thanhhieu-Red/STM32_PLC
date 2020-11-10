@@ -9,17 +9,17 @@ CDefines=USE_HAL_DRIVER;STM32F746xx;USE_HAL_DRIVER;USE_HAL_DRIVER;
 [PreviousGenFiles]
 AdvancedFolderStructure=true
 HeaderFileListSize=3
-HeaderFiles#0=C:/Users/thefa/OneDrive/Desktop/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Inc/stm32f7xx_it.h
-HeaderFiles#1=C:/Users/thefa/OneDrive/Desktop/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Inc/stm32f7xx_hal_conf.h
-HeaderFiles#2=C:/Users/thefa/OneDrive/Desktop/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Inc/main.h
+HeaderFiles#0=C:/Users/thefa/OneDrive/Desktop/temp/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Inc/stm32f7xx_it.h
+HeaderFiles#1=C:/Users/thefa/OneDrive/Desktop/temp/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Inc/stm32f7xx_hal_conf.h
+HeaderFiles#2=C:/Users/thefa/OneDrive/Desktop/temp/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Inc/main.h
 HeaderFolderListSize=1
-HeaderPath#0=C:/Users/thefa/OneDrive/Desktop/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Inc
+HeaderPath#0=C:/Users/thefa/OneDrive/Desktop/temp/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Inc
 HeaderFiles=;
 SourceFileListSize=3
-SourceFiles#0=C:/Users/thefa/OneDrive/Desktop/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Src/stm32f7xx_it.c
-SourceFiles#1=C:/Users/thefa/OneDrive/Desktop/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Src/stm32f7xx_hal_msp.c
-SourceFiles#2=C:/Users/thefa/OneDrive/Desktop/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Src/main.c
+SourceFiles#0=C:/Users/thefa/OneDrive/Desktop/temp/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Src/stm32f7xx_it.c
+SourceFiles#1=C:/Users/thefa/OneDrive/Desktop/temp/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Src/stm32f7xx_hal_msp.c
+SourceFiles#2=C:/Users/thefa/OneDrive/Desktop/temp/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Src/main.c
 SourceFolderListSize=1
-SourcePath#0=C:/Users/thefa/OneDrive/Desktop/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Src
+SourcePath#0=C:/Users/thefa/OneDrive/Desktop/temp/fh_universalslave_pcb/MCU_IO_CUBEIDE/STM32F7_PLC/Core/Src
 SourceFiles=;
 
