@@ -1,0 +1,76 @@
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=IC16
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=IC16
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=IC19
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R109
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=R110
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R110
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R112
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=R115
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R115
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R133
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R134
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R140
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=R140
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R143
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R146
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R155
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R156
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=R170
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=R175
+Added Component: Designator=PS?(SKM10B05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SKM10B-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/skm10b-05/mean-well-enterprises"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.meanwellusa.com/productPdf.aspx?i=799"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Mean Well"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SKM10B-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "709-SKM10B-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/MEAN-WELL/SKM10B-05?qs=5aG0NVq1C4wVHq7OasJuEw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component IC14 ESDALC6V1W5
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component IC15 SI8380P-IU
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component IC17 ESDALC6V1W5
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component IC18 ESDALC6V1W5
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J5 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J6 691382040004
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component PS? SKM10B-05
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R101 22
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R102 22
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R103 22
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R104 22
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R105 120R
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component R106 1R
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component R107 100K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R108 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R111 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R113 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R114 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R116 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R119 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R121 6.2k
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R122 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R124 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R127 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R129 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R130 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R132 1K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R136 1.24K
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R137 100K
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R139 1K
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R142 10K
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R144 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R145 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R147 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R148 [NA]
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R151 50
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R152 1K5
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R153 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R154 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R159 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R160 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R161 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R163 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R166 330
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R168 22
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R169 22
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R171 22
