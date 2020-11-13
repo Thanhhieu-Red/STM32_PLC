@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=VBAT Pin=P1-1
+Removed Pin From Net: NetName=GND0 Pin=P1-2
+Removed Pin From Net: NetName=VIN Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=+5V_ISO Pin=P3-1
+Removed Pin From Net: NetName=GND0 Pin=P3-2
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=P1
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=P2
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=P3
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=J9 NewDesignator=J12
+Change Component Designator: OldDesignator=J10 NewDesignator=J13
+Added Component: Designator=J8(S2BPHSM4TBLFSN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S2B-PH-SM4-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(S2BPHSM4TBLFSN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S2B-PH-SM4-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J11(S2BPHSM4TBLFSN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S2B-PH-SM4-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND0 Pin=J8-1
+Added Pin To Net: NetName=VBAT Pin=J8-2
+Added Pin To Net: NetName=GND0 Pin=J8-MP1
+Added Pin To Net: NetName=GND0 Pin=J8-MP2
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=VIN Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-MP1
+Added Pin To Net: NetName=GND Pin=J10-MP2
+Added Pin To Net: NetName=GND0 Pin=J11-1
+Added Pin To Net: NetName=+5V_ISO Pin=J11-2
+Added Pin To Net: NetName=GND0 Pin=J11-MP1
+Added Pin To Net: NetName=GND0 Pin=J11-MP2
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J8 S2B-PH-SM4-TB_LF__SN_
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component J10 S2B-PH-SM4-TB_LF__SN_
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component J11 S2B-PH-SM4-TB_LF__SN_

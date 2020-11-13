@@ -1,0 +1,13 @@
+Added Component: Designator=P1(*JST_S2B-PH-SM4-TB(LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB _LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB%20%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/104386/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Pin To Net: NetName=GND0 Pin=P1-2
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component P1 S2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component P2 S2B-PH-SM4-TB(LF)(SN)
