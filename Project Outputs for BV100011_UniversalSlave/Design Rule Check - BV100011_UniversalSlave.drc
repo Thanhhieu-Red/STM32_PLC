@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\thefa\OneDrive\Desktop\fh_universalslave_pcb\BV100011_UniversalSlave.PcbDoc
+PCB File : C:\Users\thefa\OneDrive\Desktop\temp\fh_universalslave_pcb\BV100011_UniversalSlave.PcbDoc
 Date     : 11/21/2020
-Time     : 12:57:27 PM
+Time     : 8:59:14 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (InNamedPolygon('EARTH_L1')),(InNamedPolygon('Layer 1-VIN'))
 Rule Violations :0
@@ -89,4 +89,4 @@ Rule Violations :0
 
 Violations Detected : 2
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:03

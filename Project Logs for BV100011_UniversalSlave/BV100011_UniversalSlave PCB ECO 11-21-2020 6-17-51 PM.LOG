@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=NetD20_2 Pin=J6-1
+Removed Pin From Net: NetName=NetD23_2 Pin=J6-2
+Removed Pin From Net: NetName=NetD25_2 Pin=J6-3
+Removed Pin From Net: NetName=NetD28_2 Pin=J6-4
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=IC10
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=IC13
+Removed Member From Class: ClassName=U_BV100011_DEBUG Member=IC15
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R85
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R88
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R94
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R96
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R97
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=R99
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=R125
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=R127
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R132
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R135
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R137
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=R142
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=R143
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=R145
+Removed Member From Class: ClassName=U_BV100011_EERAM Member=R166
+Removed Member From Class: ClassName=U_BV100011_EERAM Member=R167
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=U18
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=U23
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=U23
+Change Component Footprint: Designator=J6 Old Footprint=*691382040004 New Footprint=SHDRRA4W80P0X250_1X4_2200X1010X810P
+Change component parameters: Designator = "J6"; Footprint = "SHDRRA4W80P0X250_1X4_2200X1010X810P"; UniqueID = "\GIXIYSLH\SQRZARVQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/691382040004.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "691382040004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-691382040004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-691382040004"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD28_2 Pin=J6-1
+Added Pin To Net: NetName=NetD25_2 Pin=J6-2
+Added Pin To Net: NetName=NetD23_2 Pin=J6-3
+Added Pin To Net: NetName=NetD20_2 Pin=J6-4
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C39 0.1uF/10V
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C40 0.1uF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C41 100pF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component C42 100pF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC9 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC10 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC11 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component IC14 SI8380P-IU
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component IC16 ESDALC6V1W5
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R82 167K
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R83 220R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R84 220R
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R85 55K
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R86 167K
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R87 55K
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component R88 167K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R89 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R90 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R92 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R95 100R
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R98 22
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R100 22
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R101 120R
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component R103 100K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R105 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R108 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R110 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R113 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R115 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R116 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R118 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R120 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R121 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R123 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R126 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R129 1.24K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R131 22K
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R136 0
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R138 10K
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R139 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R141 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R144 [NA]
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R146 50
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R147 50
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R149 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R150 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R156 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R157 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R159 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R160 10K
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R161 10K
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R162 330
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R168 22
+Added Member To Class: ClassName=U_BV100011_EERAM Member=Component R170 1K
+Added Member To Class: ClassName=U_BV100011_EERAM Member=Component R171 1K
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U12 MAX14850ASET
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U14 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U15 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U17 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U19 XTR116UA
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component U21 LD39050PU33R
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component U22 MAX14850ASET
