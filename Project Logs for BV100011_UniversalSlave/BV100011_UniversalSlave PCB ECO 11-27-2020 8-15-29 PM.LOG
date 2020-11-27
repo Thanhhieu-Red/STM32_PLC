@@ -1,0 +1,22 @@
+Added Component: Designator=U21(*SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX14850ASE+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16 Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX14850ASE%2B/Maxim%20Integrated/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V_ISO Pin=U21-1
+Added Pin To Net: NetName=PB10 Pin=U21-2
+Added Pin To Net: NetName=PB15 Pin=U21-3
+Added Pin To Net: NetName=PB12 Pin=U21-6
+Added Pin To Net: NetName=PB11 Pin=U21-7
+Added Pin To Net: NetName=GND0 Pin=U21-8
+Added Pin To Net: NetName=GND_ISO_AO1 Pin=U21-9
+Added Pin To Net: NetName=NetIC12_2 Pin=U21-10
+Added Pin To Net: NetName=NetR98_1 Pin=U21-11
+Added Pin To Net: NetName=NetIC12_4 Pin=U21-14
+Added Pin To Net: NetName=NetIC12_3 Pin=U21-15
+Added Pin To Net: NetName=VCC_iso_AO1 Pin=U21-16
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U21 MAX14850ASET

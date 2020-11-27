@@ -1,0 +1,119 @@
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=C61
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=C64
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C70
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=C71
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=C82
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=C104
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=C114
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=D28
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=D35
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R101
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R108
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R108
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R109
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=R111
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R111
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R111
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=R114
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=R114
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=R114
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R135
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R137
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=R137
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=R140
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=R140
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=R140
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=R142
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=R145
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R150
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R151
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R152
+Removed Member From Class: ClassName=U_BV100011_SDCARD Member=R153
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=R169
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=R171
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=U24
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C52 0.1uF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C53 10nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C54 100nF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C55 2.2uF/10V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C56 0.1uF/10V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C57 0.1uF/16V
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component C59 100nF/16V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C62 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C65 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C68 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component C69 2.2nF/50V
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C72 UUD1H221MNL1GS
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component C75 1uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C78 100nF/16V
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component C80 0.1uF/16V
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C83 4.3pF[N/A]
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C86 2.2uF_X7R
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C91 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C94 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C99 100nF
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component C102 4.7uF_X5R_0603
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C103 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C105 30pF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C106 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C108 10uF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C110 100nF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C111 10uF
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component C112 1uF
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D19 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D21 SMBJ33A
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D24 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D26 SMBJ33A
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component D28 1N4007
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D29 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D30 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D33 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D36 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component D37 SS34
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R89 100R
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R91 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R92 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R96 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R97 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R98 10K
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component R99 10K
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R102 22
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R103 22
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R104 22
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component R105 120R
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component R106 1R
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component R107 100K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R110 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R112 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R113 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R115 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R118 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R120 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R123 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R125 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R126 1K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R128 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R129 6.2K
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component R131 2.4K
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component R132 1K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R133 1.24K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R134 22K
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component R136 1.24K
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R138 680
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component R141 0
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R143 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R144 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R146 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R147 47K_1%_0402
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R148 [NA]
+Added Member To Class: ClassName=U_BV100011_SDCARD Member=Component R149 0_5%_0402
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R155 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R158 50
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R160 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R161 4K7
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R163 33
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R165 10K
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component R167 330
+Added Member To Class: ClassName=U_BV100011_DEBUG Member=Component R168 22
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U19 MAX14850ASET
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component U23 MAX14850ASET
