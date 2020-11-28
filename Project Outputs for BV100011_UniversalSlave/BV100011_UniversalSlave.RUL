@@ -1,0 +1,20 @@
+DRC Rules Export File for PCB: C:\Users\thefa\OneDrive\Desktop\temp\fh_universalslave_pcb\BV100011_UniversalSlave.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_NetF1_1|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=VIN CAP to Bottom layer polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=NetD38_1 to VIN Top Layer polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=NetD38_1 to Top Layer polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=NetD38_1 to L1 polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=+5V to Bottom layer polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=NetD38_1 to Bottom layer polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=VIN to top layer|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=mosfet source to TOP layer polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=EARTH to L1 polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=EARTH to L2 polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=EARTH to TOP layer polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=EARTH to Bottom layer polygon|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=InPolygon|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=PadToPad|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

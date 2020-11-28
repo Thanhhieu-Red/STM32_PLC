@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Added Component: Designator=J?(N37932302RB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/1/TS0771-560033.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "27.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "N3793-2302RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "517-N3793-2302RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/3M-Electronic-Solutions-Division/N3793-2302RB?qs=5fUzhq3xOBQl4roNkXPomA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J? N3793-2302RB

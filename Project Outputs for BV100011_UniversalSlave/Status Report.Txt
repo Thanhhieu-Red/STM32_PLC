@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BV100011_UniversalSlave.PrjPCB]
+   Generated File[BV100011_UniversalSlave.GTO]
+   Generated File[BV100011_UniversalSlave.GTP]
+   Generated File[BV100011_UniversalSlave.GTS]
+   Generated File[BV100011_UniversalSlave.GTL]
+   Generated File[BV100011_UniversalSlave.G1]
+   Generated File[BV100011_UniversalSlave.G2]
+   Generated File[BV100011_UniversalSlave.GBL]
+   Generated File[BV100011_UniversalSlave.GBS]
+   Generated File[BV100011_UniversalSlave.GBP]
+   Generated File[BV100011_UniversalSlave.GBO]
+   Generated File[BV100011_UniversalSlave.GM1]
+   Generated File[BV100011_UniversalSlave.GKO]
+   Generated File[BV100011_UniversalSlave.GD1]
+   Generated File[BV100011_UniversalSlave.GG1]
+   Generated File[BV100011_UniversalSlave.RUL]
+   Generated File[BV100011_UniversalSlave.EXTREP]
+   Generated File[BV100011_UniversalSlave.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 11:11:52 AM On 11/22/2020

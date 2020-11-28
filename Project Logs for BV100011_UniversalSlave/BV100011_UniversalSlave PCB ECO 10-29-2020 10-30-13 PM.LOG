@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=BV100011_ControlTopLevel Member=J9
+Removed Member From Class: ClassName=U_BV100011_ControlConnector Member=J9
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J4 2.5mm pitch
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J6 691382040004
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J7 1881451
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component J8 691382040002

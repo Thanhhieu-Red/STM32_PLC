@@ -1,0 +1,22 @@
+Added Component: Designator=J?(SHDRRA8W83P0X350_1X8_2940X920X740P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1844278"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1844278/phoenix-contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.phoenixcontact.com/online/portal/gb/?uri=pxc-oc-itemdetail:pid=1844278&library=gben&pcck=P-11-02-11&tab=1&selectedCategory=ALL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1844278"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1844278"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1844278?qs=wd%252Bw3mUqFrn5nuccyuAiZw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D30 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D31 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D32 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D33 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D34 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D35 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D36 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component D37 SM15T33CA
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component D38 STTH4R02UY
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component D39 CDSOT23-SM712
+Added Member To Class: ClassName=BV100011_ControlTopLevel Member=Component J7 1843800
+Added Member To Class: ClassName=U_BV100011_ControlConnector Member=Component J? 1844278

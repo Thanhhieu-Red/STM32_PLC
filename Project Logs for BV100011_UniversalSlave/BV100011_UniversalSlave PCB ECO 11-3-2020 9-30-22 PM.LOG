@@ -1,0 +1,48 @@
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=IC15
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=IC15
+Removed Member From Class: ClassName=U_BV100011_ControlDI_8-15 Member=IC15
+Removed Member From Class: ClassName=U_BV100011_ControlAI Member=IC16
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=IC16
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=IC16
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=U11
+Removed Member From Class: ClassName=U_BV100011_ControlAO Member=U16
+Removed Member From Class: ClassName=U_BV100011_ControlPower Member=U16
+Removed Member From Class: ClassName=U_BV100011_ControlRS485 Member=U19
+Removed Member From Class: ClassName=U_BV100011_Ethernet Member=U19
+Removed Member From Class: ClassName=U_BV100011_MCU144 Member=U20
+Added Component: Designator=S?(2198LPST)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "219-8LPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/219-8lpst/cts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ctscorp.com/wp-content/uploads/219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "219-8LPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "774-2198LPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CTS-Electronic-Components/219-8LPST?qs=qNzHFtQhdJ%252BArk7b%252BY2Vjw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC3 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC4 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC5 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC7 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component IC8 MAX14626ETT+T
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC11 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component IC12 MCP4921-E_SN
+Added Member To Class: ClassName=U_BV100011_ControlDI_8-15 Member=Component IC13 SI8380P-IU
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component IC14 MAX14783EASA+
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component S? 219-8LPST
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U4 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U6 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U7 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U9 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U12 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U13 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U14 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U15 LM358ADT
+Added Member To Class: ClassName=U_BV100011_ControlAI Member=Component U16 LOC111P
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U17 MAX14850ASET
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U18 XTR116UA
+Added Member To Class: ClassName=U_BV100011_ControlAO Member=Component U19 XTR116UA
+Added Member To Class: ClassName=U_BV100011_ControlPower Member=Component U20 LD39050PU33R
+Added Member To Class: ClassName=U_BV100011_ControlRS485 Member=Component U21 MAX14850ASET
+Added Member To Class: ClassName=U_BV100011_MCU144 Member=Component U22 MCU_LQFP144
+Added Member To Class: ClassName=U_BV100011_Ethernet Member=Component U23 LAN8742A-CZ-TR
